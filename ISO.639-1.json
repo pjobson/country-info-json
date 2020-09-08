@@ -1,0 +1,1235 @@
+{
+	"metadata": {
+		"type": "ISO",
+		"name": "ISO 639-1",
+		"version": "639-1",
+		"date": "2018-12-01",
+		"source": "https://glottolog.org/glottolog/language"
+	},
+	"languages": [
+		{
+			"Code": "aa",
+			"English Name": "Afar",
+			"French Name": "afar",
+			"German Name": "Danakil-Sprache"
+		},
+		{
+			"Code": "ab",
+			"English Name": "Abkhazian",
+			"French Name": "abkhaze",
+			"German Name": "Abchasisch"
+		},
+		{
+			"Code": "af",
+			"English Name": "Afrikaans",
+			"French Name": "afrikaans",
+			"German Name": "Afrikaans"
+		},
+		{
+			"Code": "ak",
+			"English Name": "Akan",
+			"French Name": "akan",
+			"German Name": "Akan-Sprache"
+		},
+		{
+			"Code": "sq",
+			"English Name": "Albanian",
+			"French Name": "albanais",
+			"German Name": "Albanisch"
+		},
+		{
+			"Code": "am",
+			"English Name": "Amharic",
+			"French Name": "amharique",
+			"German Name": "Amharisch"
+		},
+		{
+			"Code": "ar",
+			"English Name": "Arabic",
+			"French Name": "arabe",
+			"German Name": "Arabisch"
+		},
+		{
+			"Code": "an",
+			"English Name": "Aragonese",
+			"French Name": "aragonais",
+			"German Name": "Aragonesisch"
+		},
+		{
+			"Code": "hy",
+			"English Name": "Armenian",
+			"French Name": "arménien",
+			"German Name": "Armenisch"
+		},
+		{
+			"Code": "as",
+			"English Name": "Assamese",
+			"French Name": "assamais",
+			"German Name": "Assamesisch"
+		},
+		{
+			"Code": "av",
+			"English Name": "Avaric",
+			"French Name": "avar",
+			"German Name": "Awarisch"
+		},
+		{
+			"Code": "ae",
+			"English Name": "Avestan",
+			"French Name": "avestique",
+			"German Name": "Avestisch"
+		},
+		{
+			"Code": "ay",
+			"English Name": "Aymara",
+			"French Name": "aymara",
+			"German Name": "Aymará-Sprache"
+		},
+		{
+			"Code": "az",
+			"English Name": "Azerbaijani",
+			"French Name": "azéri",
+			"German Name": "Aserbeidschanisch"
+		},
+		{
+			"Code": "ba",
+			"English Name": "Bashkir",
+			"French Name": "bachkir",
+			"German Name": "Baschkirisch"
+		},
+		{
+			"Code": "bm",
+			"English Name": "Bambara",
+			"French Name": "bambara",
+			"German Name": "Bambara-Sprache"
+		},
+		{
+			"Code": "eu",
+			"English Name": "Basque",
+			"French Name": "basque",
+			"German Name": "Baskisch"
+		},
+		{
+			"Code": "be",
+			"English Name": "Belarusian",
+			"French Name": "biélorusse",
+			"German Name": "Weißrussisch"
+		},
+		{
+			"Code": "bn",
+			"English Name": "Bengali",
+			"French Name": "bengali",
+			"German Name": "Bengali"
+		},
+		{
+			"Code": "bh",
+			"English Name": "Bihari languages",
+			"French Name": "langues biharis",
+			"German Name": "Bihari (Andere)"
+		},
+		{
+			"Code": "bi",
+			"English Name": "Bislama",
+			"French Name": "bichlamar",
+			"German Name": "Beach-la-mar"
+		},
+		{
+			"Code": "bo",
+			"English Name": "Tibetan",
+			"French Name": "tibétain",
+			"German Name": "Tibetisch"
+		},
+		{
+			"Code": "bs",
+			"English Name": "Bosnian",
+			"French Name": "bosniaque",
+			"German Name": "Bosnisch"
+		},
+		{
+			"Code": "br",
+			"English Name": "Breton",
+			"French Name": "breton",
+			"German Name": "Bretonisch"
+		},
+		{
+			"Code": "bg",
+			"English Name": "Bulgarian",
+			"French Name": "bulgare",
+			"German Name": "Bulgarisch"
+		},
+		{
+			"Code": "my",
+			"English Name": "Burmese",
+			"French Name": "birman",
+			"German Name": "Birmanisch"
+		},
+		{
+			"Code": "ca",
+			"English Name": "Catalan; Valencian",
+			"French Name": "catalan; valencien",
+			"German Name": "Katalanisch"
+		},
+		{
+			"Code": "cs",
+			"English Name": "Czech",
+			"French Name": "tchèque",
+			"German Name": "Tschechisch"
+		},
+		{
+			"Code": "ch",
+			"English Name": "Chamorro",
+			"French Name": "chamorro",
+			"German Name": "Chamorro-Sprache"
+		},
+		{
+			"Code": "ce",
+			"English Name": "Chechen",
+			"French Name": "tchétchène",
+			"German Name": "Tschetschenisch"
+		},
+		{
+			"Code": "zh",
+			"English Name": "Chinese",
+			"French Name": "chinois",
+			"German Name": "Chinesisch"
+		},
+		{
+			"Code": "cu",
+			"English Name": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+			"French Name": "slavon d'église; vieux slave; slavon liturgique; vieux bulgare",
+			"German Name": "Kirchenslawisch"
+		},
+		{
+			"Code": "cv",
+			"English Name": "Chuvash",
+			"French Name": "tchouvache",
+			"German Name": "Tschuwaschisch"
+		},
+		{
+			"Code": "kw",
+			"English Name": "Cornish",
+			"French Name": "cornique",
+			"German Name": "Kornisch"
+		},
+		{
+			"Code": "co",
+			"English Name": "Corsican",
+			"French Name": "corse",
+			"German Name": "Korsisch"
+		},
+		{
+			"Code": "cr",
+			"English Name": "Cree",
+			"French Name": "cree",
+			"German Name": "Cree-Sprache"
+		},
+		{
+			"Code": "cy",
+			"English Name": "Welsh",
+			"French Name": "gallois",
+			"German Name": "Kymrisch"
+		},
+		{
+			"Code": "cs",
+			"English Name": "Czech",
+			"French Name": "tchèque",
+			"German Name": "Tschechisch"
+		},
+		{
+			"Code": "da",
+			"English Name": "Danish",
+			"French Name": "danois",
+			"German Name": "Dänisch"
+		},
+		{
+			"Code": "de",
+			"English Name": "German",
+			"French Name": "allemand",
+			"German Name": "Deutsch"
+		},
+		{
+			"Code": "dv",
+			"English Name": "Divehi; Dhivehi; Maldivian",
+			"French Name": "maldivien",
+			"German Name": "Maledivisch"
+		},
+		{
+			"Code": "nl",
+			"English Name": "Dutch; Flemish",
+			"French Name": "néerlandais; flamand",
+			"German Name": "Niederländisch"
+		},
+		{
+			"Code": "dz",
+			"English Name": "Dzongkha",
+			"French Name": "dzongkha",
+			"German Name": "Dzongkha"
+		},
+		{
+			"Code": "el",
+			"English Name": "Greek, Modern (1453-)",
+			"French Name": "grec moderne (après 1453)",
+			"German Name": "Neugriechisch"
+		},
+		{
+			"Code": "en",
+			"English Name": "English",
+			"French Name": "anglais",
+			"German Name": "Englisch"
+		},
+		{
+			"Code": "eo",
+			"English Name": "Esperanto",
+			"French Name": "espéranto",
+			"German Name": "Esperanto"
+		},
+		{
+			"Code": "et",
+			"English Name": "Estonian",
+			"French Name": "estonien",
+			"German Name": "Estnisch"
+		},
+		{
+			"Code": "eu",
+			"English Name": "Basque",
+			"French Name": "basque",
+			"German Name": "Baskisch"
+		},
+		{
+			"Code": "ee",
+			"English Name": "Ewe",
+			"French Name": "éwé",
+			"German Name": "Ewe-Sprache"
+		},
+		{
+			"Code": "fo",
+			"English Name": "Faroese",
+			"French Name": "féroïen",
+			"German Name": "Färöisch"
+		},
+		{
+			"Code": "fa",
+			"English Name": "Persian",
+			"French Name": "persan",
+			"German Name": "Persisch"
+		},
+		{
+			"Code": "fj",
+			"English Name": "Fijian",
+			"French Name": "fidjien",
+			"German Name": "Fidschi-Sprache"
+		},
+		{
+			"Code": "fi",
+			"English Name": "Finnish",
+			"French Name": "finnois",
+			"German Name": "Finnisch"
+		},
+		{
+			"Code": "fr",
+			"English Name": "French",
+			"French Name": "français",
+			"German Name": "Französisch"
+		},
+		{
+			"Code": "fr",
+			"English Name": "French",
+			"French Name": "français",
+			"German Name": "Französisch"
+		},
+		{
+			"Code": "fy",
+			"English Name": "Western Frisian",
+			"French Name": "frison occidental",
+			"German Name": "Friesisch"
+		},
+		{
+			"Code": "ff",
+			"English Name": "Fulah",
+			"French Name": "peul",
+			"German Name": "Ful"
+		},
+		{
+			"Code": "ka",
+			"English Name": "Georgian",
+			"French Name": "géorgien",
+			"German Name": "Georgisch"
+		},
+		{
+			"Code": "de",
+			"English Name": "German",
+			"French Name": "allemand",
+			"German Name": "Deutsch"
+		},
+		{
+			"Code": "gd",
+			"English Name": "Gaelic; Scottish Gaelic",
+			"French Name": "gaélique; gaélique écossais",
+			"German Name": "Gälisch-Schottisch"
+		},
+		{
+			"Code": "ga",
+			"English Name": "Irish",
+			"French Name": "irlandais",
+			"German Name": "Irisch"
+		},
+		{
+			"Code": "gl",
+			"English Name": "Galician",
+			"French Name": "galicien",
+			"German Name": "Galicisch"
+		},
+		{
+			"Code": "gv",
+			"English Name": "Manx",
+			"French Name": "manx; mannois",
+			"German Name": "Manx"
+		},
+		{
+			"Code": "el",
+			"English Name": "Greek, Modern (1453-)",
+			"French Name": "grec moderne (après 1453)",
+			"German Name": "Neugriechisch"
+		},
+		{
+			"Code": "gn",
+			"English Name": "Guarani",
+			"French Name": "guarani",
+			"German Name": "Guaraní-Sprache"
+		},
+		{
+			"Code": "gu",
+			"English Name": "Gujarati",
+			"French Name": "goudjrati",
+			"German Name": "Gujarati-Sprache"
+		},
+		{
+			"Code": "ht",
+			"English Name": "Haitian; Haitian Creole",
+			"French Name": "haïtien; créole haïtien",
+			"German Name": "Haïtien (Haiti-Kreolisch)"
+		},
+		{
+			"Code": "ha",
+			"English Name": "Hausa",
+			"French Name": "haoussa",
+			"German Name": "Haussa-Sprache"
+		},
+		{
+			"Code": "he",
+			"English Name": "Hebrew",
+			"French Name": "hébreu",
+			"German Name": "Hebräisch"
+		},
+		{
+			"Code": "hz",
+			"English Name": "Herero",
+			"French Name": "herero",
+			"German Name": "Herero-Sprache"
+		},
+		{
+			"Code": "hi",
+			"English Name": "Hindi",
+			"French Name": "hindi",
+			"German Name": "Hindi"
+		},
+		{
+			"Code": "ho",
+			"English Name": "Hiri Motu",
+			"French Name": "hiri motu",
+			"German Name": "Hiri-Motu"
+		},
+		{
+			"Code": "hr",
+			"English Name": "Croatian",
+			"French Name": "croate",
+			"German Name": "Kroatisch"
+		},
+		{
+			"Code": "hu",
+			"English Name": "Hungarian",
+			"French Name": "hongrois",
+			"German Name": "Ungarisch"
+		},
+		{
+			"Code": "hy",
+			"English Name": "Armenian",
+			"French Name": "arménien",
+			"German Name": "Armenisch"
+		},
+		{
+			"Code": "ig",
+			"English Name": "Igbo",
+			"French Name": "igbo",
+			"German Name": "Ibo-Sprache"
+		},
+		{
+			"Code": "is",
+			"English Name": "Icelandic",
+			"French Name": "islandais",
+			"German Name": "Isländisch"
+		},
+		{
+			"Code": "io",
+			"English Name": "Ido",
+			"French Name": "ido",
+			"German Name": "Ido"
+		},
+		{
+			"Code": "ii",
+			"English Name": "Sichuan Yi; Nuosu",
+			"French Name": "yi de Sichuan",
+			"German Name": "Lalo-Sprache"
+		},
+		{
+			"Code": "iu",
+			"English Name": "Inuktitut",
+			"French Name": "inuktitut",
+			"German Name": "Inuktitut"
+		},
+		{
+			"Code": "ie",
+			"English Name": "Interlingue; Occidental",
+			"French Name": "interlingue",
+			"German Name": "Interlingue"
+		},
+		{
+			"Code": "ia",
+			"English Name": "Interlingua (International Auxiliary Language Association)",
+			"French Name": "interlingua (langue auxiliaire internationale)",
+			"German Name": "Interlingua"
+		},
+		{
+			"Code": "id",
+			"English Name": "Indonesian",
+			"French Name": "indonésien",
+			"German Name": "Bahasa Indonesia"
+		},
+		{
+			"Code": "ik",
+			"English Name": "Inupiaq",
+			"French Name": "inupiaq",
+			"German Name": "Inupik"
+		},
+		{
+			"Code": "is",
+			"English Name": "Icelandic",
+			"French Name": "islandais",
+			"German Name": "Isländisch"
+		},
+		{
+			"Code": "it",
+			"English Name": "Italian",
+			"French Name": "italien",
+			"German Name": "Italienisch"
+		},
+		{
+			"Code": "jv",
+			"English Name": "Javanese",
+			"French Name": "javanais",
+			"German Name": "Javanisch"
+		},
+		{
+			"Code": "ja",
+			"English Name": "Japanese",
+			"French Name": "japonais",
+			"German Name": "Japanisch"
+		},
+		{
+			"Code": "kl",
+			"English Name": "Kalaallisut; Greenlandic",
+			"French Name": "groenlandais",
+			"German Name": "Grönländisch"
+		},
+		{
+			"Code": "kn",
+			"English Name": "Kannada",
+			"French Name": "kannada",
+			"German Name": "Kannada"
+		},
+		{
+			"Code": "ks",
+			"English Name": "Kashmiri",
+			"French Name": "kashmiri",
+			"German Name": "Kaschmiri"
+		},
+		{
+			"Code": "ka",
+			"English Name": "Georgian",
+			"French Name": "géorgien",
+			"German Name": "Georgisch"
+		},
+		{
+			"Code": "kr",
+			"English Name": "Kanuri",
+			"French Name": "kanouri",
+			"German Name": "Kanuri-Sprache"
+		},
+		{
+			"Code": "kk",
+			"English Name": "Kazakh",
+			"French Name": "kazakh",
+			"German Name": "Kasachisch"
+		},
+		{
+			"Code": "km",
+			"English Name": "Central Khmer",
+			"French Name": "khmer central",
+			"German Name": "Kambodschanisch"
+		},
+		{
+			"Code": "ki",
+			"English Name": "Kikuyu; Gikuyu",
+			"French Name": "kikuyu",
+			"German Name": "Kikuyu-Sprache"
+		},
+		{
+			"Code": "rw",
+			"English Name": "Kinyarwanda",
+			"French Name": "rwanda",
+			"German Name": "Rwanda-Sprache"
+		},
+		{
+			"Code": "ky",
+			"English Name": "Kirghiz; Kyrgyz",
+			"French Name": "kirghiz",
+			"German Name": "Kirgisisch"
+		},
+		{
+			"Code": "kv",
+			"English Name": "Komi",
+			"French Name": "kom",
+			"German Name": "Komi-Sprache"
+		},
+		{
+			"Code": "kg",
+			"English Name": "Kongo",
+			"French Name": "kongo",
+			"German Name": "Kongo-Sprache"
+		},
+		{
+			"Code": "ko",
+			"English Name": "Korean",
+			"French Name": "coréen",
+			"German Name": "Koreanisch"
+		},
+		{
+			"Code": "kj",
+			"English Name": "Kuanyama; Kwanyama",
+			"French Name": "kuanyama; kwanyama",
+			"German Name": "Kwanyama-Sprache"
+		},
+		{
+			"Code": "ku",
+			"English Name": "Kurdish",
+			"French Name": "kurde",
+			"German Name": "Kurdisch"
+		},
+		{
+			"Code": "lo",
+			"English Name": "Lao",
+			"French Name": "lao",
+			"German Name": "Laotisch"
+		},
+		{
+			"Code": "la",
+			"English Name": "Latin",
+			"French Name": "latin",
+			"German Name": "Latein"
+		},
+		{
+			"Code": "lv",
+			"English Name": "Latvian",
+			"French Name": "letton",
+			"German Name": "Lettisch"
+		},
+		{
+			"Code": "li",
+			"English Name": "Limburgan; Limburger; Limburgish",
+			"French Name": "limbourgeois",
+			"German Name": "Limburgisch"
+		},
+		{
+			"Code": "ln",
+			"English Name": "Lingala",
+			"French Name": "lingala",
+			"German Name": "Lingala"
+		},
+		{
+			"Code": "lt",
+			"English Name": "Lithuanian",
+			"French Name": "lituanien",
+			"German Name": "Litauisch"
+		},
+		{
+			"Code": "lb",
+			"English Name": "Luxembourgish; Letzeburgesch",
+			"French Name": "luxembourgeois",
+			"German Name": "Luxemburgisch"
+		},
+		{
+			"Code": "lu",
+			"English Name": "Luba-Katanga",
+			"French Name": "luba-katanga",
+			"German Name": "Luba-Katanga-Sprache"
+		},
+		{
+			"Code": "lg",
+			"English Name": "Ganda",
+			"French Name": "ganda",
+			"German Name": "Ganda-Sprache"
+		},
+		{
+			"Code": "mk",
+			"English Name": "Macedonian",
+			"French Name": "macédonien",
+			"German Name": "Makedonisch"
+		},
+		{
+			"Code": "mh",
+			"English Name": "Marshallese",
+			"French Name": "marshall",
+			"German Name": "Marschallesisch"
+		},
+		{
+			"Code": "ml",
+			"English Name": "Malayalam",
+			"French Name": "malayalam",
+			"German Name": "Malayalam"
+		},
+		{
+			"Code": "mi",
+			"English Name": "Maori",
+			"French Name": "maori",
+			"German Name": "Maori-Sprache"
+		},
+		{
+			"Code": "mr",
+			"English Name": "Marathi",
+			"French Name": "marathe",
+			"German Name": "Marathi"
+		},
+		{
+			"Code": "ms",
+			"English Name": "Malay",
+			"French Name": "malais",
+			"German Name": "Malaiisch"
+		},
+		{
+			"Code": "mk",
+			"English Name": "Macedonian",
+			"French Name": "macédonien",
+			"German Name": "Makedonisch"
+		},
+		{
+			"Code": "mg",
+			"English Name": "Malagasy",
+			"French Name": "malgache",
+			"German Name": "Malagassi-Sprache"
+		},
+		{
+			"Code": "mt",
+			"English Name": "Maltese",
+			"French Name": "maltais",
+			"German Name": "Maltesisch"
+		},
+		{
+			"Code": "mn",
+			"English Name": "Mongolian",
+			"French Name": "mongol",
+			"German Name": "Mongolisch"
+		},
+		{
+			"Code": "mi",
+			"English Name": "Maori",
+			"French Name": "maori",
+			"German Name": "Maori-Sprache"
+		},
+		{
+			"Code": "ms",
+			"English Name": "Malay",
+			"French Name": "malais",
+			"German Name": "Malaiisch"
+		},
+		{
+			"Code": "my",
+			"English Name": "Burmese",
+			"French Name": "birman",
+			"German Name": "Birmanisch"
+		},
+		{
+			"Code": "na",
+			"English Name": "Nauru",
+			"French Name": "nauruan",
+			"German Name": "Nauruanisch"
+		},
+		{
+			"Code": "nv",
+			"English Name": "Navajo; Navaho",
+			"French Name": "navaho",
+			"German Name": "Navajo-Sprache"
+		},
+		{
+			"Code": "nr",
+			"English Name": "Ndebele, South; South Ndebele",
+			"French Name": "ndébélé du Sud",
+			"German Name": "Ndebele-Sprache (Transvaal)"
+		},
+		{
+			"Code": "nd",
+			"English Name": "Ndebele, North; North Ndebele",
+			"French Name": "ndébélé du Nord",
+			"German Name": "Ndebele-Sprache (Simbabwe)"
+		},
+		{
+			"Code": "ng",
+			"English Name": "Ndonga",
+			"French Name": "ndonga",
+			"German Name": "Ndonga"
+		},
+		{
+			"Code": "ne",
+			"English Name": "Nepali",
+			"French Name": "népalais",
+			"German Name": "Nepali"
+		},
+		{
+			"Code": "nl",
+			"English Name": "Dutch; Flemish",
+			"French Name": "néerlandais; flamand",
+			"German Name": "Niederländisch"
+		},
+		{
+			"Code": "nn",
+			"English Name": "Norwegian Nynorsk; Nynorsk, Norwegian",
+			"French Name": "norvégien nynorsk; nynorsk, norvégien",
+			"German Name": "Nynorsk"
+		},
+		{
+			"Code": "nb",
+			"English Name": "Bokmål, Norwegian; Norwegian Bokmål",
+			"French Name": "norvégien bokmål",
+			"German Name": "Bokmål"
+		},
+		{
+			"Code": "no",
+			"English Name": "Norwegian",
+			"French Name": "norvégien",
+			"German Name": "Norwegisch"
+		},
+		{
+			"Code": "ny",
+			"English Name": "Chichewa; Chewa; Nyanja",
+			"French Name": "chichewa; chewa; nyanja",
+			"German Name": "Nyanja-Sprache"
+		},
+		{
+			"Code": "oc",
+			"English Name": "Occitan (post 1500)",
+			"French Name": "occitan (après 1500)",
+			"German Name": "Okzitanisch"
+		},
+		{
+			"Code": "oj",
+			"English Name": "Ojibwa",
+			"French Name": "ojibwa",
+			"German Name": "Ojibwa-Sprache"
+		},
+		{
+			"Code": "or",
+			"English Name": "Oriya",
+			"French Name": "oriya",
+			"German Name": "Oriya-Sprache"
+		},
+		{
+			"Code": "om",
+			"English Name": "Oromo",
+			"French Name": "galla",
+			"German Name": "Galla-Sprache"
+		},
+		{
+			"Code": "os",
+			"English Name": "Ossetian; Ossetic",
+			"French Name": "ossète",
+			"German Name": "Ossetisch"
+		},
+		{
+			"Code": "pa",
+			"English Name": "Panjabi; Punjabi",
+			"French Name": "pendjabi",
+			"German Name": "Pandschabi-Sprache"
+		},
+		{
+			"Code": "fa",
+			"English Name": "Persian",
+			"French Name": "persan",
+			"German Name": "Persisch"
+		},
+		{
+			"Code": "pi",
+			"English Name": "Pali",
+			"French Name": "pali",
+			"German Name": "Pali"
+		},
+		{
+			"Code": "pl",
+			"English Name": "Polish",
+			"French Name": "polonais",
+			"German Name": "Polnisch"
+		},
+		{
+			"Code": "pt",
+			"English Name": "Portuguese",
+			"French Name": "portugais",
+			"German Name": "Portugiesisch"
+		},
+		{
+			"Code": "ps",
+			"English Name": "Pushto; Pashto",
+			"French Name": "pachto",
+			"German Name": "Paschtu"
+		},
+		{
+			"Code": "qaa-qtz",
+			"English Name": "qu",
+			"French Name": "Quechua",
+			"German Name": "Quechua-Sprache"
+		},
+		{
+			"Code": "rm",
+			"English Name": "Romansh",
+			"French Name": "romanche",
+			"German Name": "Rätoromanisch"
+		},
+		{
+			"Code": "ro",
+			"English Name": "Romanian; Moldavian; Moldovan",
+			"French Name": "roumain; moldave",
+			"German Name": "Rumänisch"
+		},
+		{
+			"Code": "ro",
+			"English Name": "Romanian; Moldavian; Moldovan",
+			"French Name": "roumain; moldave",
+			"German Name": "Rumänisch"
+		},
+		{
+			"Code": "rn",
+			"English Name": "Rundi",
+			"French Name": "rundi",
+			"German Name": "Rundi-Sprache"
+		},
+		{
+			"Code": "ru",
+			"English Name": "Russian",
+			"French Name": "russe",
+			"German Name": "Russisch"
+		},
+		{
+			"Code": "sg",
+			"English Name": "Sango",
+			"French Name": "sango",
+			"German Name": "Sango-Sprache"
+		},
+		{
+			"Code": "sa",
+			"English Name": "Sanskrit",
+			"French Name": "sanskrit",
+			"German Name": "Sanskrit"
+		},
+		{
+			"Code": "si",
+			"English Name": "Sinhala; Sinhalese",
+			"French Name": "singhalais",
+			"German Name": "Singhalesisch"
+		},
+		{
+			"Code": "sk",
+			"English Name": "Slovak",
+			"French Name": "slovaque",
+			"German Name": "Slowakisch"
+		},
+		{
+			"Code": "sk",
+			"English Name": "Slovak",
+			"French Name": "slovaque",
+			"German Name": "Slowakisch"
+		},
+		{
+			"Code": "sl",
+			"English Name": "Slovenian",
+			"French Name": "slovène",
+			"German Name": "Slowenisch"
+		},
+		{
+			"Code": "se",
+			"English Name": "Northern Sami",
+			"French Name": "sami du Nord",
+			"German Name": "Nordsaamisch"
+		},
+		{
+			"Code": "sm",
+			"English Name": "Samoan",
+			"French Name": "samoan",
+			"German Name": "Samoanisch"
+		},
+		{
+			"Code": "sn",
+			"English Name": "Shona",
+			"French Name": "shona",
+			"German Name": "Schona-Sprache"
+		},
+		{
+			"Code": "sd",
+			"English Name": "Sindhi",
+			"French Name": "sindhi",
+			"German Name": "Sindhi-Sprache"
+		},
+		{
+			"Code": "so",
+			"English Name": "Somali",
+			"French Name": "somali",
+			"German Name": "Somali"
+		},
+		{
+			"Code": "st",
+			"English Name": "Sotho, Southern",
+			"French Name": "sotho du Sud",
+			"German Name": "Süd-Sotho-Sprache"
+		},
+		{
+			"Code": "es",
+			"English Name": "Spanish; Castilian",
+			"French Name": "espagnol; castillan",
+			"German Name": "Spanisch"
+		},
+		{
+			"Code": "sq",
+			"English Name": "Albanian",
+			"French Name": "albanais",
+			"German Name": "Albanisch"
+		},
+		{
+			"Code": "sc",
+			"English Name": "Sardinian",
+			"French Name": "sarde",
+			"German Name": "Sardisch"
+		},
+		{
+			"Code": "sr",
+			"English Name": "Serbian",
+			"French Name": "serbe",
+			"German Name": "Serbisch"
+		},
+		{
+			"Code": "ss",
+			"English Name": "Swati",
+			"French Name": "swati",
+			"German Name": "Swasi-Sprache"
+		},
+		{
+			"Code": "su",
+			"English Name": "Sundanese",
+			"French Name": "soundanais",
+			"German Name": "Sundanesisch"
+		},
+		{
+			"Code": "sw",
+			"English Name": "Swahili",
+			"French Name": "swahili",
+			"German Name": "Swahili"
+		},
+		{
+			"Code": "sv",
+			"English Name": "Swedish",
+			"French Name": "suédois",
+			"German Name": "Schwedisch"
+		},
+		{
+			"Code": "ty",
+			"English Name": "Tahitian",
+			"French Name": "tahitien",
+			"German Name": "Tahitisch"
+		},
+		{
+			"Code": "ta",
+			"English Name": "Tamil",
+			"French Name": "tamoul",
+			"German Name": "Tamil"
+		},
+		{
+			"Code": "tt",
+			"English Name": "Tatar",
+			"French Name": "tatar",
+			"German Name": "Tatarisch"
+		},
+		{
+			"Code": "te",
+			"English Name": "Telugu",
+			"French Name": "télougou",
+			"German Name": "Telugu-Sprache"
+		},
+		{
+			"Code": "tg",
+			"English Name": "Tajik",
+			"French Name": "tadjik",
+			"German Name": "Tadschikisch"
+		},
+		{
+			"Code": "tl",
+			"English Name": "Tagalog",
+			"French Name": "tagalog",
+			"German Name": "Tagalog"
+		},
+		{
+			"Code": "th",
+			"English Name": "Thai",
+			"French Name": "thaï",
+			"German Name": "Thailändisch"
+		},
+		{
+			"Code": "bo",
+			"English Name": "Tibetan",
+			"French Name": "tibétain",
+			"German Name": "Tibetisch"
+		},
+		{
+			"Code": "ti",
+			"English Name": "Tigrinya",
+			"French Name": "tigrigna",
+			"German Name": "Tigrinja-Sprache"
+		},
+		{
+			"Code": "to",
+			"English Name": "Tonga (Tonga Islands)",
+			"French Name": "tongan (Îles Tonga)",
+			"German Name": "Tongaisch"
+		},
+		{
+			"Code": "tn",
+			"English Name": "Tswana",
+			"French Name": "tswana",
+			"German Name": "Tswana-Sprache"
+		},
+		{
+			"Code": "ts",
+			"English Name": "Tsonga",
+			"French Name": "tsonga",
+			"German Name": "Tsonga-Sprache"
+		},
+		{
+			"Code": "tk",
+			"English Name": "Turkmen",
+			"French Name": "turkmène",
+			"German Name": "Turkmenisch"
+		},
+		{
+			"Code": "tr",
+			"English Name": "Turkish",
+			"French Name": "turc",
+			"German Name": "Türkisch"
+		},
+		{
+			"Code": "tw",
+			"English Name": "Twi",
+			"French Name": "twi",
+			"German Name": "Twi-Sprache"
+		},
+		{
+			"Code": "ug",
+			"English Name": "Uighur; Uyghur",
+			"French Name": "ouïgour",
+			"German Name": "Uigurisch"
+		},
+		{
+			"Code": "uk",
+			"English Name": "Ukrainian",
+			"French Name": "ukrainien",
+			"German Name": "Ukrainisch"
+		},
+		{
+			"Code": "ur",
+			"English Name": "Urdu",
+			"French Name": "ourdou",
+			"German Name": "Urdu"
+		},
+		{
+			"Code": "uz",
+			"English Name": "Uzbek",
+			"French Name": "ouszbek",
+			"German Name": "Usbekisch"
+		},
+		{
+			"Code": "ve",
+			"English Name": "Venda",
+			"French Name": "venda",
+			"German Name": "Venda-Sprache"
+		},
+		{
+			"Code": "vi",
+			"English Name": "Vietnamese",
+			"French Name": "vietnamien",
+			"German Name": "Vietnamesisch"
+		},
+		{
+			"Code": "vo",
+			"English Name": "Volapük",
+			"French Name": "volapük",
+			"German Name": "Volapük"
+		},
+		{
+			"Code": "cy",
+			"English Name": "Welsh",
+			"French Name": "gallois",
+			"German Name": "Kymrisch"
+		},
+		{
+			"Code": "wa",
+			"English Name": "Walloon",
+			"French Name": "wallon",
+			"German Name": "Wallonisch"
+		},
+		{
+			"Code": "wo",
+			"English Name": "Wolof",
+			"French Name": "wolof",
+			"German Name": "Wolof-Sprache"
+		},
+		{
+			"Code": "xh",
+			"English Name": "Xhosa",
+			"French Name": "xhosa",
+			"German Name": "Xhosa-Sprache"
+		},
+		{
+			"Code": "yi",
+			"English Name": "Yiddish",
+			"French Name": "yiddish",
+			"German Name": "Jiddisch"
+		},
+		{
+			"Code": "yo",
+			"English Name": "Yoruba",
+			"French Name": "yoruba",
+			"German Name": "Yoruba-Sprache"
+		},
+		{
+			"Code": "za",
+			"English Name": "Zhuang; Chuang",
+			"French Name": "zhuang; chuang",
+			"German Name": "Zhuang"
+		},
+		{
+			"Code": "zh",
+			"English Name": "Chinese",
+			"French Name": "chinois",
+			"German Name": "Chinesisch"
+		},
+		{
+			"Code": "zu",
+			"English Name": "Zulu",
+			"French Name": "zoulou",
+			"German Name": "Zulu-Sprache"
+		}
+	]
+}
