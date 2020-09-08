@@ -1,0 +1,375 @@
+{
+	"source": "https://www.iana.org/assignments/lang-tag-apps/lang-tag-apps.txt",
+	"date": "2006-09-27",
+	"rfc": {
+		"name": "Directory of Language Tag Applications - OBSOLETE",
+		"url": "https://tools.ietf.org/html/rfc4646",
+		"number": "4646"
+	},
+	"languages": [
+		{
+			"Tag": "art-lojban",
+			"Application-File": "art-lojban"
+		},
+		{
+			"Tag": "az-Arab",
+			"Application-File": "az-Arab"
+		},
+		{
+			"Tag": "az-Cyrl",
+			"Application-File": "az-Cyrl"
+		},
+		{
+			"Tag": "az-Latn",
+			"Application-File": "az-Latn"
+		},
+		{
+			"Tag": "be-Latn",
+			"Application-File": "be-Latn"
+		},
+		{
+			"Tag": "bs-Cyrl",
+			"Application-File": "bs-Cyrl"
+		},
+		{
+			"Tag": "bs-Latn",
+			"Application-File": "bs-Latn"
+		},
+		{
+			"Tag": "cel-gaulish",
+			"Application-File": "cel-gaulish"
+		},
+		{
+			"Tag": "de-1901",
+			"Application-File": "de-1901"
+		},
+		{
+			"Tag": "de-1996",
+			"Application-File": "de-1996"
+		},
+		{
+			"Tag": "de-AT-1901",
+			"Application-File": "de-AT-1901"
+		},
+		{
+			"Tag": "de-AT-1996",
+			"Application-File": "de-AT-1996"
+		},
+		{
+			"Tag": "de-CH-1901",
+			"Application-File": "de-CH-1901"
+		},
+		{
+			"Tag": "de-CH-1996",
+			"Application-File": "de-CH-1996"
+		},
+		{
+			"Tag": "de-DE-1901",
+			"Application-File": "de-DE-1901"
+		},
+		{
+			"Tag": "de-DE-1996",
+			"Application-File": "de-DE-1996"
+		},
+		{
+			"Tag": "en-boont",
+			"Application-File": "en-boont"
+		},
+		{
+			"Tag": "en-GB-oed",
+			"Application-File": "en-GB-oed"
+		},
+		{
+			"Tag": "en-scouse",
+			"Application-File": "en-scouse"
+		},
+		{
+			"Tag": "es-419",
+			"Application-File": "es-419"
+		},
+		{
+			"Tag": "i-ami",
+			"Application-File": "i-ami"
+		},
+		{
+			"Tag": "i-bnn",
+			"Application-File": "i-bnn"
+		},
+		{
+			"Tag": "i-default",
+			"Application-File": "i-default"
+		},
+		{
+			"Tag": "i-enochian",
+			"Application-File": "i-enochian"
+		},
+		{
+			"Tag": "i-hak",
+			"Application-File": "i-hak"
+		},
+		{
+			"Tag": "i-klingon",
+			"Application-File": "i-klingon"
+		},
+		{
+			"Tag": "i-lux",
+			"Application-File": "i-lux"
+		},
+		{
+			"Tag": "i-mingo",
+			"Application-File": "i-mingo"
+		},
+		{
+			"Tag": "i-navajo",
+			"Application-File": "i-navajo"
+		},
+		{
+			"Tag": "i-pwn",
+			"Application-File": "i-pwn"
+		},
+		{
+			"Tag": "i-tao",
+			"Application-File": "i-tao"
+		},
+		{
+			"Tag": "i-tay",
+			"Application-File": "i-tay"
+		},
+		{
+			"Tag": "i-tsu",
+			"Application-File": "i-tsu"
+		},
+		{
+			"Tag": "iu-Cans",
+			"Application-File": "iu-Cans"
+		},
+		{
+			"Tag": "iu-Latn",
+			"Application-File": "iu-Latn"
+		},
+		{
+			"Tag": "mn-Cyrl",
+			"Application-File": "mn-Cyrl"
+		},
+		{
+			"Tag": "mn-Mong",
+			"Application-File": "mn-Mong"
+		},
+		{
+			"Tag": "no-bok",
+			"Application-File": "no-bok"
+		},
+		{
+			"Tag": "no-nyn",
+			"Application-File": "no-nyn"
+		},
+		{
+			"Tag": "sgn-BE-fr",
+			"Application-File": "sgn-BE-fr"
+		},
+		{
+			"Tag": "sgn-BE-nl",
+			"Application-File": "sgn-BE-nl"
+		},
+		{
+			"Tag": "sgn-BR",
+			"Application-File": "sgn-BR"
+		},
+		{
+			"Tag": "sgn-CH-de",
+			"Application-File": "sgn-CH-de"
+		},
+		{
+			"Tag": "sgn-CO",
+			"Application-File": "sgn-CO"
+		},
+		{
+			"Tag": "sgn-DE",
+			"Application-File": "sgn-DE"
+		},
+		{
+			"Tag": "sgn-DK",
+			"Application-File": "sgn-DK"
+		},
+		{
+			"Tag": "sgn-ES",
+			"Application-File": "sgn-ES"
+		},
+		{
+			"Tag": "sgn-FR",
+			"Application-File": "sgn-FR"
+		},
+		{
+			"Tag": "sgn-GB",
+			"Application-File": "sgn-GB"
+		},
+		{
+			"Tag": "sgn-GR",
+			"Application-File": "sgn-GR"
+		},
+		{
+			"Tag": "sgn-IE",
+			"Application-File": "sgn-IE"
+		},
+		{
+			"Tag": "sgn-IT",
+			"Application-File": "sgn-IT"
+		},
+		{
+			"Tag": "sgn-JP",
+			"Application-File": "sgn-JP"
+		},
+		{
+			"Tag": "sgn-MX",
+			"Application-File": "sgn-MX"
+		},
+		{
+			"Tag": "sgn-NL",
+			"Application-File": "sgn-NL"
+		},
+		{
+			"Tag": "sgn-NO",
+			"Application-File": "sgn-NO"
+		},
+		{
+			"Tag": "sgn-PT",
+			"Application-File": "sgn-PT"
+		},
+		{
+			"Tag": "sgn-SE",
+			"Application-File": "sgn-SE"
+		},
+		{
+			"Tag": "sgn-US",
+			"Application-File": "sgn-US"
+		},
+		{
+			"Tag": "sgn-ZA",
+			"Application-File": "sgn-ZA"
+		},
+		{
+			"Tag": "sl-rozaj",
+			"Application-File": "sl-rozaj"
+		},
+		{
+			"Tag": "sr-Cyrl",
+			"Application-File": "sr-Cyrl"
+		},
+		{
+			"Tag": "sr-Latn",
+			"Application-File": "sr-Latn"
+		},
+		{
+			"Tag": "tg-Arab",
+			"Application-File": "tg-Arab"
+		},
+		{
+			"Tag": "tg-Cyrl",
+			"Application-File": "tg-Cyrl"
+		},
+		{
+			"Tag": "uz-Cyrl",
+			"Application-File": "uz-Cyrl"
+		},
+		{
+			"Tag": "uz-Latn",
+			"Application-File": "uz-Latn"
+		},
+		{
+			"Tag": "yi-latn",
+			"Application-File": "yi-latn"
+		},
+		{
+			"Tag": "zh-cmn",
+			"Application-File": "zh-cmn"
+		},
+		{
+			"Tag": "zh-cmn-Hans",
+			"Application-File": "zh-cmn-Hans"
+		},
+		{
+			"Tag": "zh-cmn-Hant",
+			"Application-File": "zh-cmn-Hant"
+		},
+		{
+			"Tag": "zh-gan",
+			"Application-File": "zh-gan"
+		},
+		{
+			"Tag": "zh-guoyu",
+			"Application-File": "zh-guoyu"
+		},
+		{
+			"Tag": "zh-hakka",
+			"Application-File": "zh-hakka"
+		},
+		{
+			"Tag": "zh-Hans",
+			"Application-File": "zh-Hans"
+		},
+		{
+			"Tag": "zh-Hans-CN",
+			"Application-File": "zh-Hans-CN"
+		},
+		{
+			"Tag": "zh-Hans-HK",
+			"Application-File": "zh-Hans-HK"
+		},
+		{
+			"Tag": "zh-Hans-MO",
+			"Application-File": "zh-Hans-MO"
+		},
+		{
+			"Tag": "zh-Hans-SG",
+			"Application-File": "zh-Hans-SG"
+		},
+		{
+			"Tag": "zh-Hans-TW",
+			"Application-File": "zh-Hans-TW"
+		},
+		{
+			"Tag": "zh-Hant",
+			"Application-File": "zh-Hant"
+		},
+		{
+			"Tag": "zh-Hant-CN",
+			"Application-File": "zh-Hant-CN"
+		},
+		{
+			"Tag": "zh-Hant-HK",
+			"Application-File": "zh-Hant-HK"
+		},
+		{
+			"Tag": "zh-Hant-MO",
+			"Application-File": "zh-Hant-MO"
+		},
+		{
+			"Tag": "zh-Hant-SG",
+			"Application-File": "zh-Hant-SG"
+		},
+		{
+			"Tag": "zh-Hant-TW",
+			"Application-File": "zh-Hant-TW"
+		},
+		{
+			"Tag": "zh-min",
+			"Application-File": "zh-min"
+		},
+		{
+			"Tag": "zh-min-nan",
+			"Application-File": "zh-min-nan"
+		},
+		{
+			"Tag": "zh-wuu",
+			"Application-File": "zh-wuu"
+		},
+		{
+			"Tag": "zh-xiang",
+			"Application-File": "zh-xiang"
+		},
+		{
+			"Tag": "zh-yue",
+			"Application-File": "zh-yue"
+		}
+	]
+}
