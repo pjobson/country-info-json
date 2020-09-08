@@ -1,10 +1,11 @@
 {
-	"source": "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry",
-	"date": "2020-07-17",
-	"rfc": {
+	"metadata": {
+		"type": "RFC",
 		"name": "Tags for Identifying Languages",
 		"url": "https://tools.ietf.org/html/rfc5646",
-		"number": "5646"
+		"number": "5646",
+		"date": "2020-07-17",
+		"source": "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
 	},
 	"languages": [
 		{

@@ -1,10 +1,11 @@
 {
-	"source": "https://www.iana.org/assignments/lang-tag-apps/lang-tag-apps.txt",
-	"date": "2006-09-27",
-	"rfc": {
+	"metadata": {
+		"type": "RFC",
 		"name": "Directory of Language Tag Applications - OBSOLETE",
 		"url": "https://tools.ietf.org/html/rfc4646",
-		"number": "4646"
+		"number": "4646",
+		"date": "2006-09-27",
+		"source": "https://www.iana.org/assignments/lang-tag-apps/lang-tag-apps.txt",
 	},
 	"languages": [
 		{
