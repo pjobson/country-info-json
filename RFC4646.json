@@ -6,6 +6,7 @@
 		"number": "4646",
 		"date": "2006-09-27",
 		"source": "https://www.iana.org/assignments/lang-tag-apps/lang-tag-apps.txt",
+		"description": "RFC 4646 defined the concept of an \"extended language subtag\" (sometimes referred to as extlang), although no such subtags were registered at that time."
 	},
 	"languages": [
 		{

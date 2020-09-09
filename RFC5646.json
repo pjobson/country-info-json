@@ -5,7 +5,8 @@
 		"url": "https://tools.ietf.org/html/rfc5646",
 		"number": "5646",
 		"date": "2020-07-17",
-		"source": "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry"
+		"source": "https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry",
+		"description": "The current version of the specification, RFC 5646, was published in September 2009. The main purpose of this revision was to incorporate three-letter codes from ISO 639-3 and 639-5 into the Language Subtag Registry, in order to increase the interoperability between ISO 639 and BCP 47."
 	},
 	"languages": [
 		{
