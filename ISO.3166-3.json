@@ -1,0 +1,228 @@
+{
+	"metadata": {
+		"description": "ISO 3166-3 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974. The official name of the standard is Codes for the representation of names of countries and their subdivisions.",
+		"type": "ISO",
+		"name": "ISO 3166-3",
+		"url": "https://en.wikipedia.org/wiki/ISO_3166-3",
+		"date": "1999-01-01"
+	},
+	"countries": [
+		{
+			"Former Country Name": "British Antarctic Territory",
+			"Former Codes": "BQ, ATB, -",
+			"Period of Validity": "1974–1979",
+			"ISO 3166-3 Code": "BQAQ",
+			"New Country Names and Codes": "Merged into: Antarctica (AQ, ATA, 010)"
+		},
+		{
+			"Former Country Name": "Burma",
+			"Former Codes": "BU, BUR, 104",
+			"Period of Validity": "1974–1989",
+			"ISO 3166-3 Code": "BUMM",
+			"New Country Names and Codes": "Name changed to: Myanmar (MM, MMR, 104)"
+		},
+		{
+			"Former Country Name": "Byelorussian SSR",
+			"Former Codes": "BY, BYS, 112",
+			"Period of Validity": "1974–1992",
+			"ISO 3166-3 Code": "BYAA",
+			"New Country Names and Codes": "Name changed to: Belarus (BY, BLR, 112)"
+		},
+		{
+			"Former Country Name": "Canton and Enderbury Islands",
+			"Former Codes": "CT, CTE, 128",
+			"Period of Validity": "1974–1984",
+			"ISO 3166-3 Code": "CTKI",
+			"New Country Names and Codes": "Merged into: Kiribati (KI, KIR, 296)"
+		},
+		{
+			"Former Country Name": "Czechoslovakia",
+			"Former Codes": "CS, CSK, 200",
+			"Period of Validity": "1974–1993",
+			"ISO 3166-3 Code": "CSHH",
+			"New Country Names and Codes": "Divided into: Czechia (CZ, CZE, 203), Slovakia (SK, SVK, 703)"
+		},
+		{
+			"Former Country Name": "Dahomey",
+			"Former Codes": "DY, DHY, 204",
+			"Period of Validity": "1974–1977",
+			"ISO 3166-3 Code": "DYBJ",
+			"New Country Names and Codes": "Name changed to: Benin (BJ, BEN, 204)"
+		},
+		{
+			"Former Country Name": "Dronning Maud Land",
+			"Former Codes": "NQ, ATN, 216",
+			"Period of Validity": "1974–1983",
+			"ISO 3166-3 Code": "NQAQ",
+			"New Country Names and Codes": "Merged into: Antarctica (AQ, ATA, 010)"
+		},
+		{
+			"Former Country Name": "East Timor",
+			"Former Codes": "TP, TMP, 626",
+			"Period of Validity": "1974–2002",
+			"ISO 3166-3 Code": "TPTL",
+			"New Country Names and Codes": "Name changed to: Timor-Leste (TL, TLS, 626)"
+		},
+		{
+			"Former Country Name": "France, Metropolitan",
+			"Former Codes": "FX, FXX, 249",
+			"Period of Validity": "1993–1997",
+			"ISO 3166-3 Code": "FXFR",
+			"New Country Names and Codes": "Merged into: France (FR, FRA, 250)"
+		},
+		{
+			"Former Country Name": "French Afars and Issas",
+			"Former Codes": "AI, AFI, 262",
+			"Period of Validity": "1974–1977",
+			"ISO 3166-3 Code": "AIDJ",
+			"New Country Names and Codes": "Name changed to: Djibouti (DJ, DJI, 262)"
+		},
+		{
+			"Former Country Name": "French Southern and Antarctic Territories",
+			"Former Codes": "FQ, ATF, -",
+			"Period of Validity": "1974–1979",
+			"ISO 3166-3 Code": "FQHH",
+			"New Country Names and Codes": "Divided into: Part of Antarctica (AQ, ATA, 010) (i.e., Adélie Land), French Southern Territories (TF, ATF, 260)"
+		},
+		{
+			"Former Country Name": "German Democratic Republic",
+			"Former Codes": "DD, DDR, 278",
+			"Period of Validity": "1974–1990",
+			"ISO 3166-3 Code": "DDDE",
+			"New Country Names and Codes": "Merged into: Germany (DE, DEU, 276)"
+		},
+		{
+			"Former Country Name": "Gilbert and Ellice Islands",
+			"Former Codes": "GE, GEL, 296",
+			"Period of Validity": "1974–1979",
+			"ISO 3166-3 Code": "GEHH",
+			"New Country Names and Codes": "Divided into: Kiribati (KI, KIR, 296), Tuvalu (TV, TUV, 798)"
+		},
+		{
+			"Former Country Name": "Johnston Island",
+			"Former Codes": "JT, JTN, 396",
+			"Period of Validity": "1974–1986",
+			"ISO 3166-3 Code": "JTUM",
+			"New Country Names and Codes": "Merged into: United States Minor Outlying Islands (UM, UMI, 581)"
+		},
+		{
+			"Former Country Name": "Midway Islands",
+			"Former Codes": "MI, MID, 488",
+			"Period of Validity": "1974–1986",
+			"ISO 3166-3 Code": "MIUM",
+			"New Country Names and Codes": "Merged into: United States Minor Outlying Islands (UM, UMI, 581)"
+		},
+		{
+			"Former Country Name": "Netherlands Antilles",
+			"Former Codes": "AN, ANT, 530",
+			"Period of Validity": "1974–2010",
+			"ISO 3166-3 Code": "ANHH",
+			"New Country Names and Codes": "Divided into: Bonaire, Sint Eustatius and Saba (BQ, BES, 535), Curaçao (CW, CUW, 531), Sint Maarten (Dutch part) (SX, SXM, 534)"
+		},
+		{
+			"Former Country Name": "Neutral Zone",
+			"Former Codes": "NT, NTZ, 536",
+			"Period of Validity": "1974–1993",
+			"ISO 3166-3 Code": "NTHH",
+			"New Country Names and Codes": "Divided into: Part of Iraq (IQ, IRQ, 368), Part of Saudi Arabia (SA, SAU, 682)"
+		},
+		{
+			"Former Country Name": "New Hebrides",
+			"Former Codes": "NH, NHB, 548",
+			"Period of Validity": "1974–1980",
+			"ISO 3166-3 Code": "NHVU",
+			"New Country Names and Codes": "Name changed to: Vanuatu (VU, VUT, 548)"
+		},
+		{
+			"Former Country Name": "Pacific Islands (Trust Territory)",
+			"Former Codes": "PC, PCI, 582",
+			"Period of Validity": "1974–1986",
+			"ISO 3166-3 Code": "PCHH",
+			"New Country Names and Codes": "Divided into: Marshall Islands (MH, MHL, 584), Micronesia, Federated States of (FM, FSM, 583), Northern Mariana Islands (MP, MNP, 580), Palau (PW, PLW, 585)"
+		},
+		{
+			"Former Country Name": "Panama Canal Zone",
+			"Former Codes": "PZ, PCZ, -",
+			"Period of Validity": "1974–1980",
+			"ISO 3166-3 Code": "PZPA",
+			"New Country Names and Codes": "Merged into: Panama (PA, PAN, 591)"
+		},
+		{
+			"Former Country Name": "Serbia and Montenegro",
+			"Former Codes": "CS, SCG, 891",
+			"Period of Validity": "2003–2006",
+			"ISO 3166-3 Code": "CSXX",
+			"New Country Names and Codes": "Divided into: Montenegro (ME, MNE, 499), Serbia (RS, SRB, 688)"
+		},
+		{
+			"Former Country Name": "Sikkim",
+			"Former Codes": "SK, SKM, -",
+			"Period of Validity": "1974–1975",
+			"ISO 3166-3 Code": "SKIN",
+			"New Country Names and Codes": "Merged into: India (IN, IND, 356)"
+		},
+		{
+			"Former Country Name": "Southern Rhodesia",
+			"Former Codes": "RH, RHO, 716",
+			"Period of Validity": "1974–1980",
+			"ISO 3166-3 Code": "RHZW",
+			"New Country Names and Codes": "Name changed to: Zimbabwe (ZW, ZWE, 716)"
+		},
+		{
+			"Former Country Name": "United States Miscellaneous Pacific Islands",
+			"Former Codes": "PU, PUS, 849",
+			"Period of Validity": "1974–1986",
+			"ISO 3166-3 Code": "PUUM",
+			"New Country Names and Codes": "Merged into: United States Minor Outlying Islands (UM, UMI, 581)"
+		},
+		{
+			"Former Country Name": "Upper Volta",
+			"Former Codes": "HV, HVO, 854",
+			"Period of Validity": "1974–1984",
+			"ISO 3166-3 Code": "HVBF",
+			"New Country Names and Codes": "Name changed to: Burkina Faso (BF, BFA, 854)"
+		},
+		{
+			"Former Country Name": "USSR",
+			"Former Codes": "SU, SUN, 810",
+			"Period of Validity": "1974–1992",
+			"ISO 3166-3 Code": "SUHH",
+			"New Country Names and Codes": "Divided into: Armenia (AM, ARM, 051), Azerbaijan (AZ, AZE, 031), Estonia (EE, EST, 233), Georgia (GE, GEO, 268), Kazakhstan (KZ, KAZ, 398), Kyrgyzstan (KG, KGZ, 417), Latvia (LV, LVA, 428), Lithuania (LT, LTU, 440), Moldova, Republic of (MD, MDA, 498), Russian Federation (RU, RUS, 643), Tajikistan (TJ, TJK, 762), Turkmenistan (TM, TKM, 795), Uzbekistan (UZ, UZB, 860)"
+		},
+		{
+			"Former Country Name": "Viet-Nam, Democratic Republic of",
+			"Former Codes": "VD, VDR, -",
+			"Period of Validity": "1974–1977",
+			"ISO 3166-3 Code": "VDVN",
+			"New Country Names and Codes": "Merged into: Viet Nam (VN, VNM, 704)"
+		},
+		{
+			"Former Country Name": "Wake Island",
+			"Former Codes": "WK, WAK, 872",
+			"Period of Validity": "1974–1986",
+			"ISO 3166-3 Code": "WKUM",
+			"New Country Names and Codes": "Merged into: United States Minor Outlying Islands (UM, UMI, 581)"
+		},
+		{
+			"Former Country Name": "Yemen, Democratic",
+			"Former Codes": "YD, YMD, 720",
+			"Period of Validity": "1974–1990",
+			"ISO 3166-3 Code": "YDYE",
+			"New Country Names and Codes": "Merged into: Yemen (YE, YEM, 887)"
+		},
+		{
+			"Former Country Name": "Yugoslavia",
+			"Former Codes": "YU, YUG, 891",
+			"Period of Validity": "1974–2003",
+			"ISO 3166-3 Code": "YUCS",
+			"New Country Names and Codes": "Name changed to: Serbia and Montenegro (CS, SCG, 891)"
+		},
+		{
+			"Former Country Name": "Zaire",
+			"Former Codes": "ZR, ZAR, 180",
+			"Period of Validity": "1974–1997",
+			"ISO 3166-3 Code": "ZRCD",
+			"New Country Names and Codes": "Name changed to: Congo, the Democratic Republic of the (CD, COD, 180)"
+		}
+	]
+}
