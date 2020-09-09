@@ -1,0 +1,1256 @@
+{
+	"metadata": {
+		"description": "ISO 3166-2 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. The official name of the standard is Codes for the representation of names of countries and their subdivisions.",
+		"type": "ISO",
+		"name": "ISO 3166-2",
+		"url": "https://en.wikipedia.org/wiki/ISO_3166-2",
+		"date": "1998-01-01"
+	},
+	"countries": [
+		{
+			"Entry": "AD",
+			"Country Name": "Andorra",
+			"Subdivisions": "7 parishes"
+		},
+		{
+			"Entry": "AE",
+			"Country Name": "United Arab Emirates",
+			"Subdivisions": "7 emirates"
+		},
+		{
+			"Entry": "AF",
+			"Country Name": "Afghanistan",
+			"Subdivisions": "34 provinces"
+		},
+		{
+			"Entry": "AG",
+			"Country Name": "Antigua and Barbuda",
+			"Subdivisions": "6 parishes, 2 dependencies"
+		},
+		{
+			"Entry": "AI",
+			"Country Name": "Anguilla",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "AL",
+			"Country Name": "Albania",
+			"Subdivisions": "12 counties"
+		},
+		{
+			"Entry": "AM",
+			"Country Name": "Armenia",
+			"Subdivisions": "1 city, 10 regions"
+		},
+		{
+			"Entry": "AO",
+			"Country Name": "Angola",
+			"Subdivisions": "18 provinces"
+		},
+		{
+			"Entry": "AQ",
+			"Country Name": "Antarctica",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "AR",
+			"Country Name": "Argentina",
+			"Subdivisions": "1 city, 23 provinces"
+		},
+		{
+			"Entry": "AS",
+			"Country Name": "American Samoa",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "AT",
+			"Country Name": "Austria",
+			"Subdivisions": "9 states"
+		},
+		{
+			"Entry": "AU",
+			"Country Name": "Australia",
+			"Subdivisions": "6 states, 2 territories"
+		},
+		{
+			"Entry": "AW",
+			"Country Name": "Aruba",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "AX",
+			"Country Name": "Åland Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "AZ",
+			"Country Name": "Azerbaijan",
+			"Subdivisions": "1 autonomous republic, 11 municipalities, 66 rayons"
+		},
+		{
+			"Entry": "BA",
+			"Country Name": "Bosnia and Herzegovina",
+			"Subdivisions": "2 entities, 1 district with special status"
+		},
+		{
+			"Entry": "BB",
+			"Country Name": "Barbados",
+			"Subdivisions": "11 parishes"
+		},
+		{
+			"Entry": "BD",
+			"Country Name": "Bangladesh",
+			"Subdivisions": "8 divisions, 64 districts"
+		},
+		{
+			"Entry": "BE",
+			"Country Name": "Belgium",
+			"Subdivisions": "3 regions, 10 provinces"
+		},
+		{
+			"Entry": "BF",
+			"Country Name": "Burkina Faso",
+			"Subdivisions": "13 regions, 45 provinces"
+		},
+		{
+			"Entry": "BG",
+			"Country Name": "Bulgaria",
+			"Subdivisions": "28 regions"
+		},
+		{
+			"Entry": "BH",
+			"Country Name": "Bahrain",
+			"Subdivisions": "4 governorates"
+		},
+		{
+			"Entry": "BI",
+			"Country Name": "Burundi",
+			"Subdivisions": "18 provinces"
+		},
+		{
+			"Entry": "BJ",
+			"Country Name": "Benin",
+			"Subdivisions": "12 departments"
+		},
+		{
+			"Entry": "BL",
+			"Country Name": "Saint Barthélemy",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "BM",
+			"Country Name": "Bermuda",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "BN",
+			"Country Name": "Brunei Darussalam",
+			"Subdivisions": "4 districts"
+		},
+		{
+			"Entry": "BO",
+			"Country Name": "Bolivia (Plurinational State of)",
+			"Subdivisions": "9 departments"
+		},
+		{
+			"Entry": "BQ",
+			"Country Name": "Bonaire, Sint Eustatius and Saba",
+			"Subdivisions": "3 special municipalities"
+		},
+		{
+			"Entry": "BR",
+			"Country Name": "Brazil",
+			"Subdivisions": "1 federal district, 26 states"
+		},
+		{
+			"Entry": "BS",
+			"Country Name": "Bahamas",
+			"Subdivisions": "31 districts, 1 island"
+		},
+		{
+			"Entry": "BT",
+			"Country Name": "Bhutan",
+			"Subdivisions": "20 districts"
+		},
+		{
+			"Entry": "BV",
+			"Country Name": "Bouvet Island",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "BW",
+			"Country Name": "Botswana",
+			"Subdivisions": "10 districts, 4 towns, 2 cities"
+		},
+		{
+			"Entry": "BY",
+			"Country Name": "Belarus",
+			"Subdivisions": "6 oblasts, 1 city"
+		},
+		{
+			"Entry": "BZ",
+			"Country Name": "Belize",
+			"Subdivisions": "6 districts"
+		},
+		{
+			"Entry": "CA",
+			"Country Name": "Canada",
+			"Subdivisions": "10 provinces, 3 territories"
+		},
+		{
+			"Entry": "CC",
+			"Country Name": "Cocos (Keeling) Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "CD",
+			"Country Name": "Congo, Democratic Republic of the",
+			"Subdivisions": "1 city, 25 provinces"
+		},
+		{
+			"Entry": "CF",
+			"Country Name": "Central African Republic",
+			"Subdivisions": "1 commune, 14 prefectures, 2 economic prefectures"
+		},
+		{
+			"Entry": "CG",
+			"Country Name": "Congo",
+			"Subdivisions": "12 departments"
+		},
+		{
+			"Entry": "CH",
+			"Country Name": "Switzerland",
+			"Subdivisions": "26 cantons"
+		},
+		{
+			"Entry": "CI",
+			"Country Name": "Côte d'Ivoire",
+			"Subdivisions": "12 districts, 2 autonomous districts"
+		},
+		{
+			"Entry": "CK",
+			"Country Name": "Cook Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "CL",
+			"Country Name": "Chile",
+			"Subdivisions": "16 regions"
+		},
+		{
+			"Entry": "CM",
+			"Country Name": "Cameroon",
+			"Subdivisions": "10 regions"
+		},
+		{
+			"Entry": "CN",
+			"Country Name": "China",
+			"Subdivisions": "4 municipalities, 23 provinces, 5 autonomous regions, 2 special administrative regions"
+		},
+		{
+			"Entry": "CO",
+			"Country Name": "Colombia",
+			"Subdivisions": "1 capital district, 32 departments"
+		},
+		{
+			"Entry": "CR",
+			"Country Name": "Costa Rica",
+			"Subdivisions": "7 provinces"
+		},
+		{
+			"Entry": "CU",
+			"Country Name": "Cuba",
+			"Subdivisions": "15 provinces, 1 special municipality"
+		},
+		{
+			"Entry": "CV",
+			"Country Name": "Cabo Verde",
+			"Subdivisions": "2 geographical regions, 22 municipalities"
+		},
+		{
+			"Entry": "CW",
+			"Country Name": "Curaçao",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "CX",
+			"Country Name": "Christmas Island",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "CY",
+			"Country Name": "Cyprus",
+			"Subdivisions": "6 districts"
+		},
+		{
+			"Entry": "CZ",
+			"Country Name": "Czechia",
+			"Subdivisions": "13 regions and 1 capital city, 76 districts"
+		},
+		{
+			"Entry": "DE",
+			"Country Name": "Germany",
+			"Subdivisions": "16 Länder"
+		},
+		{
+			"Entry": "DJ",
+			"Country Name": "Djibouti",
+			"Subdivisions": "5 regions, 1 city"
+		},
+		{
+			"Entry": "DK",
+			"Country Name": "Denmark",
+			"Subdivisions": "5 regions"
+		},
+		{
+			"Entry": "DM",
+			"Country Name": "Dominica",
+			"Subdivisions": "10 parishes"
+		},
+		{
+			"Entry": "DO",
+			"Country Name": "Dominican Republic",
+			"Subdivisions": "10 regions, 1 district, 31 provinces"
+		},
+		{
+			"Entry": "DZ",
+			"Country Name": "Algeria",
+			"Subdivisions": "48 provinces"
+		},
+		{
+			"Entry": "EC",
+			"Country Name": "Ecuador",
+			"Subdivisions": "24 provinces"
+		},
+		{
+			"Entry": "EE",
+			"Country Name": "Estonia",
+			"Subdivisions": "15 counties"
+		},
+		{
+			"Entry": "EG",
+			"Country Name": "Egypt",
+			"Subdivisions": "27 governorates"
+		},
+		{
+			"Entry": "EH",
+			"Country Name": "Western Sahara",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "ER",
+			"Country Name": "Eritrea",
+			"Subdivisions": "6 regions"
+		},
+		{
+			"Entry": "ES",
+			"Country Name": "Spain",
+			"Subdivisions": "17 autonomous communities, 2 autonomous cities in North Africa, 50 provinces"
+		},
+		{
+			"Entry": "ET",
+			"Country Name": "Ethiopia",
+			"Subdivisions": "2 administrations, 9 states"
+		},
+		{
+			"Entry": "FI",
+			"Country Name": "Finland",
+			"Subdivisions": "19 regions"
+		},
+		{
+			"Entry": "FJ",
+			"Country Name": "Fiji",
+			"Subdivisions": "4 divisions, 1 dependency, 14 provinces"
+		},
+		{
+			"Entry": "FK",
+			"Country Name": "Falkland Islands (Malvinas)",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "FM",
+			"Country Name": "Micronesia (Federated States of)",
+			"Subdivisions": "4 states"
+		},
+		{
+			"Entry": "FO",
+			"Country Name": "Faroe Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "FR",
+			"Country Name": "France",
+			"Subdivisions": "12 metropolitan regions, 1 collectivity, 3 overseas departments, 96 metropolitan departments, 1 dependency, 3 overseas regions, 9 overseas territorial collectivities"
+		},
+		{
+			"Entry": "GA",
+			"Country Name": "Gabon",
+			"Subdivisions": "9 provinces"
+		},
+		{
+			"Entry": "GB",
+			"Country Name": "United Kingdom of Great Britain and Northern Ireland",
+			"Subdivisions": "32 council areas, 27 two-tier counties, 11 districts, 78 unitary authorities, 36 metropolitan districts, 32 London boroughs, 1 city corporation"
+		},
+		{
+			"Entry": "GD",
+			"Country Name": "Grenada",
+			"Subdivisions": "6 parishes, 1 dependency"
+		},
+		{
+			"Entry": "GE",
+			"Country Name": "Georgia",
+			"Subdivisions": "2 autonomous republics, 1 city, 9 regions"
+		},
+		{
+			"Entry": "GF",
+			"Country Name": "French Guiana",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "GG",
+			"Country Name": "Guernsey",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "GH",
+			"Country Name": "Ghana",
+			"Subdivisions": "16 regions"
+		},
+		{
+			"Entry": "GI",
+			"Country Name": "Gibraltar",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "GL",
+			"Country Name": "Greenland",
+			"Subdivisions": "5 municipalities"
+		},
+		{
+			"Entry": "GM",
+			"Country Name": "Gambia",
+			"Subdivisions": "1 city, 5 divisions"
+		},
+		{
+			"Entry": "GN",
+			"Country Name": "Guinea",
+			"Subdivisions": "7 administrative regions, 1 governorate, 33 prefectures"
+		},
+		{
+			"Entry": "GP",
+			"Country Name": "Guadeloupe",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "GQ",
+			"Country Name": "Equatorial Guinea",
+			"Subdivisions": "2 regions, 7 provinces"
+		},
+		{
+			"Entry": "GR",
+			"Country Name": "Greece",
+			"Subdivisions": "13 administrative regions, 1 self-governed part"
+		},
+		{
+			"Entry": "GS",
+			"Country Name": "South Georgia and the South Sandwich Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "GT",
+			"Country Name": "Guatemala",
+			"Subdivisions": "22 departments"
+		},
+		{
+			"Entry": "GU",
+			"Country Name": "Guam",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "GW",
+			"Country Name": "Guinea-Bissau",
+			"Subdivisions": "3 provinces, 1 autonomous sector, 8 regions"
+		},
+		{
+			"Entry": "GY",
+			"Country Name": "Guyana",
+			"Subdivisions": "10 regions"
+		},
+		{
+			"Entry": "HK",
+			"Country Name": "Hong Kong",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "HM",
+			"Country Name": "Heard Island and McDonald Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "HN",
+			"Country Name": "Honduras",
+			"Subdivisions": "18 departments"
+		},
+		{
+			"Entry": "HR",
+			"Country Name": "Croatia",
+			"Subdivisions": "1 city, 20 counties"
+		},
+		{
+			"Entry": "HT",
+			"Country Name": "Haiti",
+			"Subdivisions": "10 departments"
+		},
+		{
+			"Entry": "HU",
+			"Country Name": "Hungary",
+			"Subdivisions": "1 capital city, 19 counties, 23 cities of county right"
+		},
+		{
+			"Entry": "ID",
+			"Country Name": "Indonesia",
+			"Subdivisions": "7 geographical units, 32 provinces, 1 capital district, 1 special region"
+		},
+		{
+			"Entry": "IE",
+			"Country Name": "Ireland",
+			"Subdivisions": "4 provinces, 26 counties"
+		},
+		{
+			"Entry": "IL",
+			"Country Name": "Israel",
+			"Subdivisions": "6 districts"
+		},
+		{
+			"Entry": "IM",
+			"Country Name": "Isle of Man",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "IN",
+			"Country Name": "India",
+			"Subdivisions": "28 states, 9 union territories"
+		},
+		{
+			"Entry": "IO",
+			"Country Name": "British Indian Ocean Territory",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "IQ",
+			"Country Name": "Iraq",
+			"Subdivisions": "18 governorates"
+		},
+		{
+			"Entry": "IR",
+			"Country Name": "Iran (Islamic Republic of)",
+			"Subdivisions": "31 provinces"
+		},
+		{
+			"Entry": "IS",
+			"Country Name": "Iceland",
+			"Subdivisions": "8 regions"
+		},
+		{
+			"Entry": "IT",
+			"Country Name": "Italy",
+			"Subdivisions": "15 regions, 80 provinces, 5 autonomous regions, 2 autonomous provinces, 6 free municipal consortiums, 14 metropolitan cities"
+		},
+		{
+			"Entry": "JE",
+			"Country Name": "Jersey",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "JM",
+			"Country Name": "Jamaica",
+			"Subdivisions": "14 parishes"
+		},
+		{
+			"Entry": "JO",
+			"Country Name": "Jordan",
+			"Subdivisions": "12 governorates"
+		},
+		{
+			"Entry": "JP",
+			"Country Name": "Japan",
+			"Subdivisions": "47 prefectures"
+		},
+		{
+			"Entry": "KE",
+			"Country Name": "Kenya",
+			"Subdivisions": "47 counties"
+		},
+		{
+			"Entry": "KG",
+			"Country Name": "Kyrgyzstan",
+			"Subdivisions": "2 cities, 7 regions"
+		},
+		{
+			"Entry": "KH",
+			"Country Name": "Cambodia",
+			"Subdivisions": "1 autonomous municipality, 24 provinces"
+		},
+		{
+			"Entry": "KI",
+			"Country Name": "Kiribati",
+			"Subdivisions": "3 groups of islands"
+		},
+		{
+			"Entry": "KM",
+			"Country Name": "Comoros",
+			"Subdivisions": "3 islands"
+		},
+		{
+			"Entry": "KN",
+			"Country Name": "Saint Kitts and Nevis",
+			"Subdivisions": "2 states, 14 parishes"
+		},
+		{
+			"Entry": "KP",
+			"Country Name": "Korea (Democratic People's Republic of)",
+			"Subdivisions": "1 capital city, 1 metropolitan city, 1 special city, 9 provinces"
+		},
+		{
+			"Entry": "KR",
+			"Country Name": "Korea, Republic of",
+			"Subdivisions": "6 metropolitan cities, 1 special city, 1 special self-governing city, 8 provinces, 1 special self-governing province"
+		},
+		{
+			"Entry": "KW",
+			"Country Name": "Kuwait",
+			"Subdivisions": "6 governorates"
+		},
+		{
+			"Entry": "KY",
+			"Country Name": "Cayman Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "KZ",
+			"Country Name": "Kazakhstan",
+			"Subdivisions": "4 cities, 14 regions"
+		},
+		{
+			"Entry": "LA",
+			"Country Name": "Lao People's Democratic Republic",
+			"Subdivisions": "1 prefecture, 17 provinces"
+		},
+		{
+			"Entry": "LB",
+			"Country Name": "Lebanon",
+			"Subdivisions": "8 governorates"
+		},
+		{
+			"Entry": "LC",
+			"Country Name": "Saint Lucia",
+			"Subdivisions": "10 districts"
+		},
+		{
+			"Entry": "LI",
+			"Country Name": "Liechtenstein",
+			"Subdivisions": "11 communes"
+		},
+		{
+			"Entry": "LK",
+			"Country Name": "Sri Lanka",
+			"Subdivisions": "9 provinces, 25 districts"
+		},
+		{
+			"Entry": "LR",
+			"Country Name": "Liberia",
+			"Subdivisions": "15 counties"
+		},
+		{
+			"Entry": "LS",
+			"Country Name": "Lesotho",
+			"Subdivisions": "10 districts"
+		},
+		{
+			"Entry": "LT",
+			"Country Name": "Lithuania",
+			"Subdivisions": "10 counties, 9 municipalities, 7 city municipalities, 44 district municipalities"
+		},
+		{
+			"Entry": "LU",
+			"Country Name": "Luxembourg",
+			"Subdivisions": "12 cantons"
+		},
+		{
+			"Entry": "LV",
+			"Country Name": "Latvia",
+			"Subdivisions": "110 municipalities, 9 republican cities"
+		},
+		{
+			"Entry": "LY",
+			"Country Name": "Libya",
+			"Subdivisions": "22 popularates"
+		},
+		{
+			"Entry": "MA",
+			"Country Name": "Morocco",
+			"Subdivisions": "12 regions, 62 provinces, 13 prefectures"
+		},
+		{
+			"Entry": "MC",
+			"Country Name": "Monaco",
+			"Subdivisions": "17 quarters"
+		},
+		{
+			"Entry": "MD",
+			"Country Name": "Moldova, Republic of",
+			"Subdivisions": "1 autonomous territorial unit, 3 cities, 32 districts, 1 territorial unit"
+		},
+		{
+			"Entry": "ME",
+			"Country Name": "Montenegro",
+			"Subdivisions": "24 municipalities"
+		},
+		{
+			"Entry": "MF",
+			"Country Name": "Saint Martin (French part)",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "MG",
+			"Country Name": "Madagascar",
+			"Subdivisions": "6 provinces"
+		},
+		{
+			"Entry": "MH",
+			"Country Name": "Marshall Islands",
+			"Subdivisions": "2 chains of islands, 24 municipalities"
+		},
+		{
+			"Entry": "MK",
+			"Country Name": "North Macedonia",
+			"Subdivisions": "80 municipalities"
+		},
+		{
+			"Entry": "ML",
+			"Country Name": "Mali",
+			"Subdivisions": "1 district, 10 regions"
+		},
+		{
+			"Entry": "MM",
+			"Country Name": "Myanmar",
+			"Subdivisions": "7 regions, 7 states, 1 union territory"
+		},
+		{
+			"Entry": "MN",
+			"Country Name": "Mongolia",
+			"Subdivisions": "1 capital city, 21 provinces"
+		},
+		{
+			"Entry": "MO",
+			"Country Name": "Macao",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "MP",
+			"Country Name": "Northern Mariana Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "MQ",
+			"Country Name": "Martinique",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "MR",
+			"Country Name": "Mauritania",
+			"Subdivisions": "15 regions"
+		},
+		{
+			"Entry": "MS",
+			"Country Name": "Montserrat",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "MT",
+			"Country Name": "Malta",
+			"Subdivisions": "68 local councils"
+		},
+		{
+			"Entry": "MU",
+			"Country Name": "Mauritius",
+			"Subdivisions": "3 dependencies, 9 districts, 5 cities"
+		},
+		{
+			"Entry": "MV",
+			"Country Name": "Maldives",
+			"Subdivisions": "19 administrative atolls, 2 cities"
+		},
+		{
+			"Entry": "MW",
+			"Country Name": "Malawi",
+			"Subdivisions": "3 regions, 28 districts"
+		},
+		{
+			"Entry": "MX",
+			"Country Name": "Mexico",
+			"Subdivisions": "31 states, 1 federal district"
+		},
+		{
+			"Entry": "MY",
+			"Country Name": "Malaysia",
+			"Subdivisions": "3 federal territories, 13 states"
+		},
+		{
+			"Entry": "MZ",
+			"Country Name": "Mozambique",
+			"Subdivisions": "1 city, 10 provinces"
+		},
+		{
+			"Entry": "NA",
+			"Country Name": "Namibia",
+			"Subdivisions": "14 regions"
+		},
+		{
+			"Entry": "NC",
+			"Country Name": "New Caledonia",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "NE",
+			"Country Name": "Niger",
+			"Subdivisions": "1 urban community, 7 departments"
+		},
+		{
+			"Entry": "NF",
+			"Country Name": "Norfolk Island",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "NG",
+			"Country Name": "Nigeria",
+			"Subdivisions": "1 capital territory, 36 states"
+		},
+		{
+			"Entry": "NI",
+			"Country Name": "Nicaragua",
+			"Subdivisions": "15 departments, 2 autonomous regions"
+		},
+		{
+			"Entry": "NL",
+			"Country Name": "Netherlands[note 1]",
+			"Subdivisions": "12 provinces, 3 countries, 3 special municipalities"
+		},
+		{
+			"Entry": "NO",
+			"Country Name": "Norway",
+			"Subdivisions": "18 counties, 2 arctic regions"
+		},
+		{
+			"Entry": "NP",
+			"Country Name": "Nepal",
+			"Subdivisions": "5 development regions, 7 provinces, 14 zones"
+		},
+		{
+			"Entry": "NR",
+			"Country Name": "Nauru",
+			"Subdivisions": "14 districts"
+		},
+		{
+			"Entry": "NU",
+			"Country Name": "Niue",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "NZ",
+			"Country Name": "New Zealand",
+			"Subdivisions": "16 regions, 1 special island authority"
+		},
+		{
+			"Entry": "OM",
+			"Country Name": "Oman",
+			"Subdivisions": "11 governorates"
+		},
+		{
+			"Entry": "PA",
+			"Country Name": "Panama",
+			"Subdivisions": "10 provinces, 3 indigenous regions"
+		},
+		{
+			"Entry": "PE",
+			"Country Name": "Peru",
+			"Subdivisions": "25 regions, 1 municipality"
+		},
+		{
+			"Entry": "PF",
+			"Country Name": "French Polynesia",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "PG",
+			"Country Name": "Papua New Guinea",
+			"Subdivisions": "1 district, 20 provinces, 1 autonomous region"
+		},
+		{
+			"Entry": "PH",
+			"Country Name": "Philippines",
+			"Subdivisions": "17 regions, 81 provinces"
+		},
+		{
+			"Entry": "PK",
+			"Country Name": "Pakistan",
+			"Subdivisions": "4 provinces, 2 autonomous territories, 1 federal territory"
+		},
+		{
+			"Entry": "PL",
+			"Country Name": "Poland",
+			"Subdivisions": "16 voivodships"
+		},
+		{
+			"Entry": "PM",
+			"Country Name": "Saint Pierre and Miquelon",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "PN",
+			"Country Name": "Pitcairn",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "PR",
+			"Country Name": "Puerto Rico",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "PS",
+			"Country Name": "Palestine, State of",
+			"Subdivisions": "16 governorates"
+		},
+		{
+			"Entry": "PT",
+			"Country Name": "Portugal",
+			"Subdivisions": "18 districts, 2 autonomous regions"
+		},
+		{
+			"Entry": "PW",
+			"Country Name": "Palau",
+			"Subdivisions": "16 states"
+		},
+		{
+			"Entry": "PY",
+			"Country Name": "Paraguay",
+			"Subdivisions": "1 capital, 17 departments"
+		},
+		{
+			"Entry": "QA",
+			"Country Name": "Qatar",
+			"Subdivisions": "8 municipalities"
+		},
+		{
+			"Entry": "RE",
+			"Country Name": "Réunion",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "RO",
+			"Country Name": "Romania",
+			"Subdivisions": "41 departments, 1 municipality"
+		},
+		{
+			"Entry": "RS",
+			"Country Name": "Serbia",
+			"Subdivisions": "2 autonomous provinces, 1 city, 29 districts"
+		},
+		{
+			"Entry": "RU",
+			"Country Name": "Russian Federation",
+			"Subdivisions": "21 republics, 9 administrative territories, 46 administrative regions, 2 autonomous cities, 1 autonomous region, 4 autonomous districts"
+		},
+		{
+			"Entry": "RW",
+			"Country Name": "Rwanda",
+			"Subdivisions": "1 town council, 4 provinces"
+		},
+		{
+			"Entry": "SA",
+			"Country Name": "Saudi Arabia",
+			"Subdivisions": "13 regions"
+		},
+		{
+			"Entry": "SB",
+			"Country Name": "Solomon Islands",
+			"Subdivisions": "1 capital territory, 9 provinces"
+		},
+		{
+			"Entry": "SC",
+			"Country Name": "Seychelles",
+			"Subdivisions": "25 districts"
+		},
+		{
+			"Entry": "SD",
+			"Country Name": "Sudan",
+			"Subdivisions": "18 states"
+		},
+		{
+			"Entry": "SE",
+			"Country Name": "Sweden",
+			"Subdivisions": "21 counties"
+		},
+		{
+			"Entry": "SG",
+			"Country Name": "Singapore",
+			"Subdivisions": "5 districts"
+		},
+		{
+			"Entry": "SH",
+			"Country Name": "Saint Helena, Ascension and Tristan da Cunha",
+			"Subdivisions": "3 geographical entities"
+		},
+		{
+			"Entry": "SI",
+			"Country Name": "Slovenia",
+			"Subdivisions": "212 municipalities"
+		},
+		{
+			"Entry": "SJ",
+			"Country Name": "Svalbard and Jan Mayen",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "SK",
+			"Country Name": "Slovakia",
+			"Subdivisions": "8 regions"
+		},
+		{
+			"Entry": "SL",
+			"Country Name": "Sierra Leone",
+			"Subdivisions": "1 area, 4 provinces"
+		},
+		{
+			"Entry": "SM",
+			"Country Name": "San Marino",
+			"Subdivisions": "9 municipalities"
+		},
+		{
+			"Entry": "SN",
+			"Country Name": "Senegal",
+			"Subdivisions": "14 regions"
+		},
+		{
+			"Entry": "SO",
+			"Country Name": "Somalia",
+			"Subdivisions": "18 regions"
+		},
+		{
+			"Entry": "SR",
+			"Country Name": "Suriname",
+			"Subdivisions": "10 districts"
+		},
+		{
+			"Entry": "SS",
+			"Country Name": "South Sudan",
+			"Subdivisions": "10 states"
+		},
+		{
+			"Entry": "ST",
+			"Country Name": "Sao Tome and Principe",
+			"Subdivisions": "2 (former) provinces"
+		},
+		{
+			"Entry": "SV",
+			"Country Name": "El Salvador",
+			"Subdivisions": "14 departments"
+		},
+		{
+			"Entry": "SX",
+			"Country Name": "Sint Maarten (Dutch part)",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "SY",
+			"Country Name": "Syrian Arab Republic",
+			"Subdivisions": "14 provinces"
+		},
+		{
+			"Entry": "SZ",
+			"Country Name": "Eswatini",
+			"Subdivisions": "4 regions"
+		},
+		{
+			"Entry": "TC",
+			"Country Name": "Turks and Caicos Islands",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "TD",
+			"Country Name": "Chad",
+			"Subdivisions": "23 regions"
+		},
+		{
+			"Entry": "TF",
+			"Country Name": "French Southern Territories",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "TG",
+			"Country Name": "Togo",
+			"Subdivisions": "5 regions"
+		},
+		{
+			"Entry": "TH",
+			"Country Name": "Thailand",
+			"Subdivisions": "1 metropolitan administration, 1 special administrative city, 76 provinces"
+		},
+		{
+			"Entry": "TJ",
+			"Country Name": "Tajikistan",
+			"Subdivisions": "1 autonomous region, 2 regions, 1 capital territory, 1 district under republic administration"
+		},
+		{
+			"Entry": "TK",
+			"Country Name": "Tokelau",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "TL",
+			"Country Name": "Timor-Leste",
+			"Subdivisions": "12 municipalities, 1 special administrative region"
+		},
+		{
+			"Entry": "TM",
+			"Country Name": "Turkmenistan",
+			"Subdivisions": "5 regions, 1 city"
+		},
+		{
+			"Entry": "TN",
+			"Country Name": "Tunisia",
+			"Subdivisions": "24 governorates"
+		},
+		{
+			"Entry": "TO",
+			"Country Name": "Tonga",
+			"Subdivisions": "5 divisions"
+		},
+		{
+			"Entry": "TR",
+			"Country Name": "Turkey",
+			"Subdivisions": "81 provinces"
+		},
+		{
+			"Entry": "TT",
+			"Country Name": "Trinidad and Tobago",
+			"Subdivisions": "9 regions, 5 municipalities, 1 ward"
+		},
+		{
+			"Entry": "TV",
+			"Country Name": "Tuvalu",
+			"Subdivisions": "1 town council, 7 island councils"
+		},
+		{
+			"Entry": "TW",
+			"Country Name": "Taiwan, Province of China [note 2]",
+			"Subdivisions": "13 counties, 3 cities, 6 special municipalities"
+		},
+		{
+			"Entry": "TZ",
+			"Country Name": "Tanzania, United Republic of",
+			"Subdivisions": "31 regions"
+		},
+		{
+			"Entry": "UA",
+			"Country Name": "Ukraine",
+			"Subdivisions": "24 regions, 1 republic, 2 cities"
+		},
+		{
+			"Entry": "UG",
+			"Country Name": "Uganda",
+			"Subdivisions": "4 geographical regions, 127 districts, 1 city"
+		},
+		{
+			"Entry": "UM",
+			"Country Name": "United States Minor Outlying Islands",
+			"Subdivisions": "9 islands, groups of islands"
+		},
+		{
+			"Entry": "US",
+			"Country Name": "United States of America",
+			"Subdivisions": "50 states, 1 district, 6 outlying areas"
+		},
+		{
+			"Entry": "UY",
+			"Country Name": "Uruguay",
+			"Subdivisions": "19 departments"
+		},
+		{
+			"Entry": "UZ",
+			"Country Name": "Uzbekistan",
+			"Subdivisions": "1 city, 12 regions, 1 republic"
+		},
+		{
+			"Entry": "VA",
+			"Country Name": "Holy See",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "VC",
+			"Country Name": "Saint Vincent and the Grenadines",
+			"Subdivisions": "6 parishes"
+		},
+		{
+			"Entry": "VE",
+			"Country Name": "Venezuela (Bolivarian Republic of)",
+			"Subdivisions": "1 federal dependency, 1 federal district, 23 states"
+		},
+		{
+			"Entry": "VG",
+			"Country Name": "Virgin Islands (British)",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "VI",
+			"Country Name": "Virgin Islands (U.S.)",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "VN",
+			"Country Name": "Viet Nam",
+			"Subdivisions": "58 provinces, 5 municipalities"
+		},
+		{
+			"Entry": "VU",
+			"Country Name": "Vanuatu",
+			"Subdivisions": "6 provinces"
+		},
+		{
+			"Entry": "WF",
+			"Country Name": "Wallis and Futuna",
+			"Subdivisions": "3 administrative precincts"
+		},
+		{
+			"Entry": "WS",
+			"Country Name": "Samoa",
+			"Subdivisions": "11 districts"
+		},
+		{
+			"Entry": "YE",
+			"Country Name": "Yemen",
+			"Subdivisions": "1 municipality, 21 governorates"
+		},
+		{
+			"Entry": "YT",
+			"Country Name": "Mayotte",
+			"Subdivisions": null
+		},
+		{
+			"Entry": "ZA",
+			"Country Name": "South Africa",
+			"Subdivisions": "9 provinces"
+		},
+		{
+			"Entry": "ZM",
+			"Country Name": "Zambia",
+			"Subdivisions": "10 provinces"
+		},
+		{
+			"Entry": "ZW",
+			"Country Name": "Zimbabwe",
+			"Subdivisions": "10 provinces"
+		}
+	]
+}
