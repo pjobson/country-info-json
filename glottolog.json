@@ -4,7 +4,8 @@
 		"name": "Glottolog",
 		"version": "4.2.1",
 		"date": "2020-09-08",
-		"source": "https://glottolog.org/glottolog/language"
+		"source": "https://glottolog.org/glottolog/language",
+		"description": "Glottolog is a bibliographic database of the world's lesser-known languages, developed and maintained first at the former Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, and since 2015 at the Max Planck Institute for the Science of Human History in Jena, Germany. Its main curators include Harald Hammarström and Martin Haspelmath."
 	},
 	"languages": [
 		{
