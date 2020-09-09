@@ -1,0 +1,963 @@
+{
+	"metadata": {
+		"description": "The ICAO airport code or location indicator is a four-letter code designating aerodromes around the world. These codes, as defined by the International Civil Aviation Organization and published in ICAO Document 7910: Location Indicators, are used by air traffic control and airline operations such as flight planning.",
+		"type": "Database",
+		"name": "ICAO airport codes",
+		"url": "https://en.wikipedia.org/wiki/ICAO_airport_code",
+		"date": "1947-01-01"
+	},
+	"codes": [
+		{
+			"Prefix Code": "AG",
+			"Country": "Solomon Islands"
+		},
+		{
+			"Prefix Code": "AN",
+			"Country": "Nauru"
+		},
+		{
+			"Prefix Code": "AY",
+			"Country": "Papua New Guinea"
+		},
+		{
+			"Prefix Code": "BG",
+			"Country": "Greenland"
+		},
+		{
+			"Prefix Code": "BI",
+			"Country": "Iceland"
+		},
+		{
+			"Prefix Code": "BK",
+			"Country": "Kosovo"
+		},
+		{
+			"Prefix Code": "C",
+			"Country": "Canada"
+		},
+		{
+			"Prefix Code": "DA",
+			"Country": "Algeria"
+		},
+		{
+			"Prefix Code": "DB",
+			"Country": "Benin"
+		},
+		{
+			"Prefix Code": "DF",
+			"Country": "Burkina Faso"
+		},
+		{
+			"Prefix Code": "DG",
+			"Country": "Ghana"
+		},
+		{
+			"Prefix Code": "DI",
+			"Country": "Côte d'Ivoire"
+		},
+		{
+			"Prefix Code": "DN",
+			"Country": "Nigeria"
+		},
+		{
+			"Prefix Code": "DR",
+			"Country": "Niger"
+		},
+		{
+			"Prefix Code": "DT",
+			"Country": "Tunisia"
+		},
+		{
+			"Prefix Code": "DX",
+			"Country": "Togolese Republic"
+		},
+		{
+			"Prefix Code": "EB",
+			"Country": "Belgium"
+		},
+		{
+			"Prefix Code": "ED",
+			"Country": "Germany (civil)"
+		},
+		{
+			"Prefix Code": "EE",
+			"Country": "Estonia"
+		},
+		{
+			"Prefix Code": "EF",
+			"Country": "Finland"
+		},
+		{
+			"Prefix Code": "EG",
+			"Country": "United Kingdom (and Crown dependencies)"
+		},
+		{
+			"Prefix Code": "EH",
+			"Country": "Netherlands"
+		},
+		{
+			"Prefix Code": "EI",
+			"Country": "Ireland"
+		},
+		{
+			"Prefix Code": "EK",
+			"Country": "Denmark and the Faroe Islands"
+		},
+		{
+			"Prefix Code": "EL",
+			"Country": "Luxembourg"
+		},
+		{
+			"Prefix Code": "EN",
+			"Country": "Norway"
+		},
+		{
+			"Prefix Code": "EP",
+			"Country": "Poland"
+		},
+		{
+			"Prefix Code": "ES",
+			"Country": "Sweden"
+		},
+		{
+			"Prefix Code": "ET",
+			"Country": "Germany (military)"
+		},
+		{
+			"Prefix Code": "EV",
+			"Country": "Latvia"
+		},
+		{
+			"Prefix Code": "EY",
+			"Country": "Lithuania"
+		},
+		{
+			"Prefix Code": "FA",
+			"Country": "South Africa"
+		},
+		{
+			"Prefix Code": "FB",
+			"Country": "Botswana"
+		},
+		{
+			"Prefix Code": "FC",
+			"Country": "Republic of the Congo"
+		},
+		{
+			"Prefix Code": "FD",
+			"Country": "Eswatini"
+		},
+		{
+			"Prefix Code": "FE",
+			"Country": "Central African Republic"
+		},
+		{
+			"Prefix Code": "FG",
+			"Country": "Equatorial Guinea"
+		},
+		{
+			"Prefix Code": "FH",
+			"Country": "Saint Helena, Ascension and Tristan da Cunha"
+		},
+		{
+			"Prefix Code": "FI",
+			"Country": "Mauritius"
+		},
+		{
+			"Prefix Code": "FJ",
+			"Country": "British Indian Ocean Territory"
+		},
+		{
+			"Prefix Code": "FK",
+			"Country": "Cameroon"
+		},
+		{
+			"Prefix Code": "FL",
+			"Country": "Zambia"
+		},
+		{
+			"Prefix Code": "FM",
+			"Country": "Comoros, France (Mayotte and Réunion), and Madagascar"
+		},
+		{
+			"Prefix Code": "FN",
+			"Country": "Angola"
+		},
+		{
+			"Prefix Code": "FO",
+			"Country": "Gabon"
+		},
+		{
+			"Prefix Code": "FP",
+			"Country": "São Tomé and Príncipe"
+		},
+		{
+			"Prefix Code": "FQ",
+			"Country": "Mozambique"
+		},
+		{
+			"Prefix Code": "FS",
+			"Country": "Seychelles"
+		},
+		{
+			"Prefix Code": "FT",
+			"Country": "Chad"
+		},
+		{
+			"Prefix Code": "FV",
+			"Country": "Zimbabwe"
+		},
+		{
+			"Prefix Code": "FW",
+			"Country": "Malawi"
+		},
+		{
+			"Prefix Code": "FX",
+			"Country": "Lesotho"
+		},
+		{
+			"Prefix Code": "FY",
+			"Country": "Namibia"
+		},
+		{
+			"Prefix Code": "FZ",
+			"Country": "Democratic Republic of the Congo"
+		},
+		{
+			"Prefix Code": "GA",
+			"Country": "Mali"
+		},
+		{
+			"Prefix Code": "GB",
+			"Country": "The Gambia"
+		},
+		{
+			"Prefix Code": "GC",
+			"Country": "Spain (Canary Islands)"
+		},
+		{
+			"Prefix Code": "GE",
+			"Country": "Spain (Ceuta and Melilla)"
+		},
+		{
+			"Prefix Code": "GF",
+			"Country": "Sierra Leone"
+		},
+		{
+			"Prefix Code": "GG",
+			"Country": "Guinea-Bissau"
+		},
+		{
+			"Prefix Code": "GL",
+			"Country": "Liberia"
+		},
+		{
+			"Prefix Code": "GM",
+			"Country": "Morocco"
+		},
+		{
+			"Prefix Code": "GO",
+			"Country": "Senegal"
+		},
+		{
+			"Prefix Code": "GQ",
+			"Country": "Mauritania"
+		},
+		{
+			"Prefix Code": "GS",
+			"Country": "Western Sahara"
+		},
+		{
+			"Prefix Code": "GU",
+			"Country": "Guinea"
+		},
+		{
+			"Prefix Code": "GV",
+			"Country": "Cape Verde"
+		},
+		{
+			"Prefix Code": "HA",
+			"Country": "Ethiopia"
+		},
+		{
+			"Prefix Code": "HB",
+			"Country": "Burundi"
+		},
+		{
+			"Prefix Code": "HC",
+			"Country": "Somalia (including Somaliland)"
+		},
+		{
+			"Prefix Code": "HD",
+			"Country": "Djibouti"
+		},
+		{
+			"Prefix Code": "HE",
+			"Country": "Egypt"
+		},
+		{
+			"Prefix Code": "HH",
+			"Country": "Eritrea"
+		},
+		{
+			"Prefix Code": "HK",
+			"Country": "Kenya"
+		},
+		{
+			"Prefix Code": "HL",
+			"Country": "Libya"
+		},
+		{
+			"Prefix Code": "HR",
+			"Country": "Rwanda"
+		},
+		{
+			"Prefix Code": "HS",
+			"Country": "Sudan and South Sudan"
+		},
+		{
+			"Prefix Code": "HT",
+			"Country": "Tanzania"
+		},
+		{
+			"Prefix Code": "HU",
+			"Country": "Uganda"
+		},
+		{
+			"Prefix Code": "K",
+			"Country": "Contiguous United States"
+		},
+		{
+			"Prefix Code": "LA",
+			"Country": "Albania"
+		},
+		{
+			"Prefix Code": "LB",
+			"Country": "Bulgaria"
+		},
+		{
+			"Prefix Code": "LC",
+			"Country": "Cyprus"
+		},
+		{
+			"Prefix Code": "LD",
+			"Country": "Croatia"
+		},
+		{
+			"Prefix Code": "LE",
+			"Country": "Spain (mainland section and Balearic Islands)"
+		},
+		{
+			"Prefix Code": "LF",
+			"Country": "France (Metropolitan France; including Saint-Pierre and Miquelon)"
+		},
+		{
+			"Prefix Code": "LG",
+			"Country": "Greece"
+		},
+		{
+			"Prefix Code": "LH",
+			"Country": "Hungary"
+		},
+		{
+			"Prefix Code": "LI",
+			"Country": "Italy"
+		},
+		{
+			"Prefix Code": "LJ",
+			"Country": "Slovenia"
+		},
+		{
+			"Prefix Code": "LK",
+			"Country": "Czech Republic"
+		},
+		{
+			"Prefix Code": "LL",
+			"Country": "Israel"
+		},
+		{
+			"Prefix Code": "LM",
+			"Country": "Malta"
+		},
+		{
+			"Prefix Code": "LN",
+			"Country": "Monaco"
+		},
+		{
+			"Prefix Code": "LO",
+			"Country": "Austria"
+		},
+		{
+			"Prefix Code": "LP",
+			"Country": "Portugal (including the Azores and Madeira)"
+		},
+		{
+			"Prefix Code": "LQ",
+			"Country": "Bosnia and Herzegovina"
+		},
+		{
+			"Prefix Code": "LR",
+			"Country": "Romania"
+		},
+		{
+			"Prefix Code": "LS",
+			"Country": "Switzerland"
+		},
+		{
+			"Prefix Code": "LT",
+			"Country": "Turkey"
+		},
+		{
+			"Prefix Code": "LU",
+			"Country": "Moldova"
+		},
+		{
+			"Prefix Code": "LV",
+			"Country": "Palestine/Palestinian territories"
+		},
+		{
+			"Prefix Code": "LW",
+			"Country": "North Macedonia"
+		},
+		{
+			"Prefix Code": "LX",
+			"Country": "Gibraltar"
+		},
+		{
+			"Prefix Code": "LY",
+			"Country": "Serbia and Montenegro"
+		},
+		{
+			"Prefix Code": "LZ",
+			"Country": "Slovakia"
+		},
+		{
+			"Prefix Code": "MB",
+			"Country": "Turks and Caicos Islands"
+		},
+		{
+			"Prefix Code": "MD",
+			"Country": "Dominican Republic"
+		},
+		{
+			"Prefix Code": "MG",
+			"Country": "Guatemala"
+		},
+		{
+			"Prefix Code": "MH",
+			"Country": "Honduras"
+		},
+		{
+			"Prefix Code": "MK",
+			"Country": "Jamaica"
+		},
+		{
+			"Prefix Code": "MM",
+			"Country": "Mexico"
+		},
+		{
+			"Prefix Code": "MN",
+			"Country": "Nicaragua"
+		},
+		{
+			"Prefix Code": "MP",
+			"Country": "Panama"
+		},
+		{
+			"Prefix Code": "MR",
+			"Country": "Costa Rica"
+		},
+		{
+			"Prefix Code": "MS",
+			"Country": "El Salvador"
+		},
+		{
+			"Prefix Code": "MT",
+			"Country": "Haiti"
+		},
+		{
+			"Prefix Code": "MU",
+			"Country": "Cuba"
+		},
+		{
+			"Prefix Code": "MW",
+			"Country": "Cayman Islands"
+		},
+		{
+			"Prefix Code": "MY",
+			"Country": "Bahamas"
+		},
+		{
+			"Prefix Code": "MZ",
+			"Country": "Belize"
+		},
+		{
+			"Prefix Code": "NC",
+			"Country": "Cook Islands"
+		},
+		{
+			"Prefix Code": "NF",
+			"Country": "Fiji, Tonga"
+		},
+		{
+			"Prefix Code": "NG",
+			"Country": "Kiribati (Gilbert Islands), Tuvalu"
+		},
+		{
+			"Prefix Code": "NI",
+			"Country": "Niue"
+		},
+		{
+			"Prefix Code": "NL",
+			"Country": "France (Wallis and Futuna)"
+		},
+		{
+			"Prefix Code": "NS",
+			"Country": "Samoa, United States (American Samoa)"
+		},
+		{
+			"Prefix Code": "NT",
+			"Country": "France (French Polynesia)"
+		},
+		{
+			"Prefix Code": "NV",
+			"Country": "Vanuatu"
+		},
+		{
+			"Prefix Code": "NW",
+			"Country": "France (New Caledonia)"
+		},
+		{
+			"Prefix Code": "NZ",
+			"Country": "New Zealand, parts of Antarctica"
+		},
+		{
+			"Prefix Code": "OA",
+			"Country": "Afghanistan"
+		},
+		{
+			"Prefix Code": "OB",
+			"Country": "Bahrain"
+		},
+		{
+			"Prefix Code": "OE",
+			"Country": "Saudi Arabia"
+		},
+		{
+			"Prefix Code": "OI",
+			"Country": "Iran"
+		},
+		{
+			"Prefix Code": "OJ",
+			"Country": "Jordan and the West Bank"
+		},
+		{
+			"Prefix Code": "OK",
+			"Country": "Kuwait"
+		},
+		{
+			"Prefix Code": "OL",
+			"Country": "Lebanon"
+		},
+		{
+			"Prefix Code": "OM",
+			"Country": "United Arab Emirates"
+		},
+		{
+			"Prefix Code": "OO",
+			"Country": "Oman"
+		},
+		{
+			"Prefix Code": "OP",
+			"Country": "Pakistan"
+		},
+		{
+			"Prefix Code": "OR",
+			"Country": "Iraq"
+		},
+		{
+			"Prefix Code": "OS",
+			"Country": "Syria"
+		},
+		{
+			"Prefix Code": "OT",
+			"Country": "Qatar"
+		},
+		{
+			"Prefix Code": "OY",
+			"Country": "Yemen"
+		},
+		{
+			"Prefix Code": "PA",
+			"Country": "US (Alaska) (also PF, PO and PP)"
+		},
+		{
+			"Prefix Code": "PB",
+			"Country": "US (Baker Island)"
+		},
+		{
+			"Prefix Code": "PC",
+			"Country": "Kiribati (Canton Airfield, Phoenix Islands)"
+		},
+		{
+			"Prefix Code": "PF",
+			"Country": "US (Alaska) (also PA, PO and PP)"
+		},
+		{
+			"Prefix Code": "PG",
+			"Country": "US (Guam, Northern Mariana Islands)"
+		},
+		{
+			"Prefix Code": "PH",
+			"Country": "US (Hawaii)"
+		},
+		{
+			"Prefix Code": "PJ",
+			"Country": "US (Johnston Atoll)"
+		},
+		{
+			"Prefix Code": "PK",
+			"Country": "Marshall Islands"
+		},
+		{
+			"Prefix Code": "PL",
+			"Country": "Kiribati (Line Islands)"
+		},
+		{
+			"Prefix Code": "PM",
+			"Country": "US (Midway Island)"
+		},
+		{
+			"Prefix Code": "PO",
+			"Country": "US (Alaska) (also PA, PF and PP)"
+		},
+		{
+			"Prefix Code": "PP",
+			"Country": "US (Alaska) (also PA, PF and PO)"
+		},
+		{
+			"Prefix Code": "PT",
+			"Country": "Federated States of Micronesia, Palau"
+		},
+		{
+			"Prefix Code": "PW",
+			"Country": "US (Wake Island)"
+		},
+		{
+			"Prefix Code": "RC",
+			"Country": "Republic of China (Taiwan)"
+		},
+		{
+			"Prefix Code": "RJ",
+			"Country": "Japan (Mainland)"
+		},
+		{
+			"Prefix Code": "RK",
+			"Country": "Republic of Korea (South Korea)"
+		},
+		{
+			"Prefix Code": "RO",
+			"Country": "Japan (Okinawa)"
+		},
+		{
+			"Prefix Code": "RP",
+			"Country": "Philippines"
+		},
+		{
+			"Prefix Code": "SA",
+			"Country": "Argentina (including parts of Antarctica)"
+		},
+		{
+			"Prefix Code": "SB",
+			"Country": "Brazil (also SD, SI, SJ, SN, SS and SW)"
+		},
+		{
+			"Prefix Code": "SC",
+			"Country": "Chile (including Easter Island and parts of Antarctica) (also SH)"
+		},
+		{
+			"Prefix Code": "SD",
+			"Country": "Brazil (also SB, SI, SJ, SN, SS and SW)"
+		},
+		{
+			"Prefix Code": "SE",
+			"Country": "Ecuador"
+		},
+		{
+			"Prefix Code": "SF",
+			"Country": "United Kingdom (Falkland Islands)"
+		},
+		{
+			"Prefix Code": "SG",
+			"Country": "Paraguay"
+		},
+		{
+			"Prefix Code": "SH",
+			"Country": "Chile (also SC)"
+		},
+		{
+			"Prefix Code": "SI",
+			"Country": "Brazil (also SB, SD, SJ, SN, SS and SW)"
+		},
+		{
+			"Prefix Code": "SJ",
+			"Country": "Brazil (also SB, SD, SI, SN, SS and SW)"
+		},
+		{
+			"Prefix Code": "SK",
+			"Country": "Colombia"
+		},
+		{
+			"Prefix Code": "SL",
+			"Country": "Bolivia"
+		},
+		{
+			"Prefix Code": "SM",
+			"Country": "Suriname"
+		},
+		{
+			"Prefix Code": "SN",
+			"Country": "Brazil (also SB, SD, SI, SJ, SS and SW)"
+		},
+		{
+			"Prefix Code": "SO",
+			"Country": "France (French Guiana)"
+		},
+		{
+			"Prefix Code": "SP",
+			"Country": "Peru"
+		},
+		{
+			"Prefix Code": "SS",
+			"Country": "Brazil (also SB, SD, SI, SJ, SN and SW)"
+		},
+		{
+			"Prefix Code": "SU",
+			"Country": "Uruguay"
+		},
+		{
+			"Prefix Code": "SV",
+			"Country": "Venezuela"
+		},
+		{
+			"Prefix Code": "SW",
+			"Country": "Brazil (also SB, SD, SI, SJ, SN and SS)"
+		},
+		{
+			"Prefix Code": "SY",
+			"Country": "Guyana"
+		},
+		{
+			"Prefix Code": "TA",
+			"Country": "Antigua and Barbuda"
+		},
+		{
+			"Prefix Code": "TB",
+			"Country": "Barbados"
+		},
+		{
+			"Prefix Code": "TD",
+			"Country": "Dominica"
+		},
+		{
+			"Prefix Code": "TF",
+			"Country": "France (Guadeloupe, Martinique, Saint Barthélemy, Saint Martin)"
+		},
+		{
+			"Prefix Code": "TG",
+			"Country": "Grenada"
+		},
+		{
+			"Prefix Code": "TI",
+			"Country": "US (U.S. Virgin Islands)"
+		},
+		{
+			"Prefix Code": "TJ",
+			"Country": "US (Puerto Rico)"
+		},
+		{
+			"Prefix Code": "TK",
+			"Country": "Saint Kitts and Nevis"
+		},
+		{
+			"Prefix Code": "TL",
+			"Country": "Saint Lucia"
+		},
+		{
+			"Prefix Code": "TN",
+			"Country": "Caribbean Netherlands, Aruba, Curaçao, Sint Maarten"
+		},
+		{
+			"Prefix Code": "TQ",
+			"Country": "UK (Anguilla)"
+		},
+		{
+			"Prefix Code": "TR",
+			"Country": "UK (Montserrat)"
+		},
+		{
+			"Prefix Code": "TT",
+			"Country": "Trinidad and Tobago"
+		},
+		{
+			"Prefix Code": "TU",
+			"Country": "UK (British Virgin Islands)"
+		},
+		{
+			"Prefix Code": "TV",
+			"Country": "Saint Vincent and the Grenadines"
+		},
+		{
+			"Prefix Code": "TX",
+			"Country": "UK (Bermuda)"
+		},
+		{
+			"Prefix Code": "U",
+			"Country": "Russia (except UA, UB, UC, UD, UG, UK, UM and UT)"
+		},
+		{
+			"Prefix Code": "UA",
+			"Country": "Kazakhstan"
+		},
+		{
+			"Prefix Code": "UB",
+			"Country": "Azerbaijan"
+		},
+		{
+			"Prefix Code": "UC",
+			"Country": "Kyrgyzstan"
+		},
+		{
+			"Prefix Code": "UD",
+			"Country": "Armenia"
+		},
+		{
+			"Prefix Code": "UG",
+			"Country": "Georgia"
+		},
+		{
+			"Prefix Code": "UK",
+			"Country": "Ukraine"
+		},
+		{
+			"Prefix Code": "UM",
+			"Country": "Belarus and Russia (Kaliningrad Oblast)"
+		},
+		{
+			"Prefix Code": "UT",
+			"Country": "Tajikistan, Turkmenistan, Uzbekistan"
+		},
+		{
+			"Prefix Code": "VA",
+			"Country": "India (West India)"
+		},
+		{
+			"Prefix Code": "VC",
+			"Country": "Sri Lanka"
+		},
+		{
+			"Prefix Code": "VD",
+			"Country": "Cambodia"
+		},
+		{
+			"Prefix Code": "VE",
+			"Country": "India (East India)"
+		},
+		{
+			"Prefix Code": "VG",
+			"Country": "Bangladesh"
+		},
+		{
+			"Prefix Code": "VH",
+			"Country": "Hong Kong"
+		},
+		{
+			"Prefix Code": "VI",
+			"Country": "India (North India)"
+		},
+		{
+			"Prefix Code": "VL",
+			"Country": "Laos"
+		},
+		{
+			"Prefix Code": "VM",
+			"Country": "Macau"
+		},
+		{
+			"Prefix Code": "VN",
+			"Country": "Nepal"
+		},
+		{
+			"Prefix Code": "VO",
+			"Country": "India (South India)"
+		},
+		{
+			"Prefix Code": "VQ",
+			"Country": "Bhutan"
+		},
+		{
+			"Prefix Code": "VR",
+			"Country": "Maldives"
+		},
+		{
+			"Prefix Code": "VT",
+			"Country": "Thailand"
+		},
+		{
+			"Prefix Code": "VV",
+			"Country": "Vietnam"
+		},
+		{
+			"Prefix Code": "VY",
+			"Country": "Myanmar"
+		},
+		{
+			"Prefix Code": "WA",
+			"Country": "Indonesia (also WI, WQ and WR)"
+		},
+		{
+			"Prefix Code": "WB",
+			"Country": "Brunei, Malaysia (East Malaysia)"
+		},
+		{
+			"Prefix Code": "WI",
+			"Country": "Indonesia (also WA, WQ and WR)"
+		},
+		{
+			"Prefix Code": "WM",
+			"Country": "Malaysia (Peninsular Malaysia)"
+		},
+		{
+			"Prefix Code": "WP",
+			"Country": "Timor-Leste"
+		},
+		{
+			"Prefix Code": "WQ",
+			"Country": "Indonesia (also WA, WI and WR)"
+		},
+		{
+			"Prefix Code": "WR",
+			"Country": "Indonesia (also WA, WI and WQ)"
+		},
+		{
+			"Prefix Code": "WS",
+			"Country": "Singapore"
+		},
+		{
+			"Prefix Code": "Y",
+			"Country": "Australia (including Norfolk Island, Christmas Island , Cocos (Keeling) Islands and Australian Antarctic Territory)"
+		},
+		{
+			"Prefix Code": "Z",
+			"Country": "Mainland China (except ZK and ZM)"
+		},
+		{
+			"Prefix Code": "ZK",
+			"Country": "North Korea"
+		},
+		{
+			"Prefix Code": "ZM",
+			"Country": "Mongolia"
+		}
+	]
+}
