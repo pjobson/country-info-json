@@ -1,0 +1,1754 @@
+{
+	"metadata": {
+		"description": "ISO 3166-1 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for the names of countries, dependent territories, and special areas of geographical interest. The official name of the standard is Codes for the representation of names of countries and their subdivisions.",
+		"type": "ISO",
+		"name": "ISO 3166-1",
+		"url": "https://en.wikipedia.org/wiki/ISO_3166-1",
+		"date": "1997-01-01"
+	},
+	"countries": [
+		{
+			"English Short Name": "Afghanistan",
+			"Alpha-2 Code": "AF",
+			"Alpha-3 Code": "AFG",
+			"Numeric Code": "004",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Åland Islands",
+			"Alpha-2 Code": "AX",
+			"Alpha-3 Code": "ALA",
+			"Numeric Code": "248",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Albania",
+			"Alpha-2 Code": "AL",
+			"Alpha-3 Code": "ALB",
+			"Numeric Code": "008",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Algeria",
+			"Alpha-2 Code": "DZ",
+			"Alpha-3 Code": "DZA",
+			"Numeric Code": "012",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "American Samoa",
+			"Alpha-2 Code": "AS",
+			"Alpha-3 Code": "ASM",
+			"Numeric Code": "016",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Andorra",
+			"Alpha-2 Code": "AD",
+			"Alpha-3 Code": "AND",
+			"Numeric Code": "020",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Angola",
+			"Alpha-2 Code": "AO",
+			"Alpha-3 Code": "AGO",
+			"Numeric Code": "024",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Anguilla",
+			"Alpha-2 Code": "AI",
+			"Alpha-3 Code": "AIA",
+			"Numeric Code": "660",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Antarctica",
+			"Alpha-2 Code": "AQ",
+			"Alpha-3 Code": "ATA",
+			"Numeric Code": "010",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Antigua and Barbuda",
+			"Alpha-2 Code": "AG",
+			"Alpha-3 Code": "ATG",
+			"Numeric Code": "028",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Argentina",
+			"Alpha-2 Code": "AR",
+			"Alpha-3 Code": "ARG",
+			"Numeric Code": "032",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Armenia",
+			"Alpha-2 Code": "AM",
+			"Alpha-3 Code": "ARM",
+			"Numeric Code": "051",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Aruba",
+			"Alpha-2 Code": "AW",
+			"Alpha-3 Code": "ABW",
+			"Numeric Code": "533",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Australia",
+			"Alpha-2 Code": "AU",
+			"Alpha-3 Code": "AUS",
+			"Numeric Code": "036",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Austria",
+			"Alpha-2 Code": "AT",
+			"Alpha-3 Code": "AUT",
+			"Numeric Code": "040",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Azerbaijan",
+			"Alpha-2 Code": "AZ",
+			"Alpha-3 Code": "AZE",
+			"Numeric Code": "031",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bahamas",
+			"Alpha-2 Code": "BS",
+			"Alpha-3 Code": "BHS",
+			"Numeric Code": "044",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bahrain",
+			"Alpha-2 Code": "BH",
+			"Alpha-3 Code": "BHR",
+			"Numeric Code": "048",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bangladesh",
+			"Alpha-2 Code": "BD",
+			"Alpha-3 Code": "BGD",
+			"Numeric Code": "050",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Barbados",
+			"Alpha-2 Code": "BB",
+			"Alpha-3 Code": "BRB",
+			"Numeric Code": "052",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Belarus",
+			"Alpha-2 Code": "BY",
+			"Alpha-3 Code": "BLR",
+			"Numeric Code": "112",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Belgium",
+			"Alpha-2 Code": "BE",
+			"Alpha-3 Code": "BEL",
+			"Numeric Code": "056",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Belize",
+			"Alpha-2 Code": "BZ",
+			"Alpha-3 Code": "BLZ",
+			"Numeric Code": "084",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Benin",
+			"Alpha-2 Code": "BJ",
+			"Alpha-3 Code": "BEN",
+			"Numeric Code": "204",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bermuda",
+			"Alpha-2 Code": "BM",
+			"Alpha-3 Code": "BMU",
+			"Numeric Code": "060",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Bhutan",
+			"Alpha-2 Code": "BT",
+			"Alpha-3 Code": "BTN",
+			"Numeric Code": "064",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bolivia (Plurinational State of)",
+			"Alpha-2 Code": "BO",
+			"Alpha-3 Code": "BOL",
+			"Numeric Code": "068",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bonaire, Sint Eustatius and Saba",
+			"Alpha-2 Code": "BQ",
+			"Alpha-3 Code": "BES",
+			"Numeric Code": "535",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Bosnia and Herzegovina",
+			"Alpha-2 Code": "BA",
+			"Alpha-3 Code": "BIH",
+			"Numeric Code": "070",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Botswana",
+			"Alpha-2 Code": "BW",
+			"Alpha-3 Code": "BWA",
+			"Numeric Code": "072",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bouvet Island",
+			"Alpha-2 Code": "BV",
+			"Alpha-3 Code": "BVT",
+			"Numeric Code": "074",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Brazil",
+			"Alpha-2 Code": "BR",
+			"Alpha-3 Code": "BRA",
+			"Numeric Code": "076",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "British Indian Ocean Territory",
+			"Alpha-2 Code": "IO",
+			"Alpha-3 Code": "IOT",
+			"Numeric Code": "086",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Brunei Darussalam",
+			"Alpha-2 Code": "BN",
+			"Alpha-3 Code": "BRN",
+			"Numeric Code": "096",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Bulgaria",
+			"Alpha-2 Code": "BG",
+			"Alpha-3 Code": "BGR",
+			"Numeric Code": "100",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Burkina Faso",
+			"Alpha-2 Code": "BF",
+			"Alpha-3 Code": "BFA",
+			"Numeric Code": "854",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Burundi",
+			"Alpha-2 Code": "BI",
+			"Alpha-3 Code": "BDI",
+			"Numeric Code": "108",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Cabo Verde",
+			"Alpha-2 Code": "CV",
+			"Alpha-3 Code": "CPV",
+			"Numeric Code": "132",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Cambodia",
+			"Alpha-2 Code": "KH",
+			"Alpha-3 Code": "KHM",
+			"Numeric Code": "116",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Cameroon",
+			"Alpha-2 Code": "CM",
+			"Alpha-3 Code": "CMR",
+			"Numeric Code": "120",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Canada",
+			"Alpha-2 Code": "CA",
+			"Alpha-3 Code": "CAN",
+			"Numeric Code": "124",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Cayman Islands",
+			"Alpha-2 Code": "KY",
+			"Alpha-3 Code": "CYM",
+			"Numeric Code": "136",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Central African Republic",
+			"Alpha-2 Code": "CF",
+			"Alpha-3 Code": "CAF",
+			"Numeric Code": "140",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Chad",
+			"Alpha-2 Code": "TD",
+			"Alpha-3 Code": "TCD",
+			"Numeric Code": "148",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Chile",
+			"Alpha-2 Code": "CL",
+			"Alpha-3 Code": "CHL",
+			"Numeric Code": "152",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "China",
+			"Alpha-2 Code": "CN",
+			"Alpha-3 Code": "CHN",
+			"Numeric Code": "156",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Christmas Island",
+			"Alpha-2 Code": "CX",
+			"Alpha-3 Code": "CXR",
+			"Numeric Code": "162",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Cocos (Keeling) Islands",
+			"Alpha-2 Code": "CC",
+			"Alpha-3 Code": "CCK",
+			"Numeric Code": "166",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Colombia",
+			"Alpha-2 Code": "CO",
+			"Alpha-3 Code": "COL",
+			"Numeric Code": "170",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Comoros",
+			"Alpha-2 Code": "KM",
+			"Alpha-3 Code": "COM",
+			"Numeric Code": "174",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Congo",
+			"Alpha-2 Code": "CG",
+			"Alpha-3 Code": "COG",
+			"Numeric Code": "178",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Congo, Democratic Republic of the",
+			"Alpha-2 Code": "CD",
+			"Alpha-3 Code": "COD",
+			"Numeric Code": "180",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Cook Islands",
+			"Alpha-2 Code": "CK",
+			"Alpha-3 Code": "COK",
+			"Numeric Code": "184",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Costa Rica",
+			"Alpha-2 Code": "CR",
+			"Alpha-3 Code": "CRI",
+			"Numeric Code": "188",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Côte d'Ivoire",
+			"Alpha-2 Code": "CI",
+			"Alpha-3 Code": "CIV",
+			"Numeric Code": "384",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Croatia",
+			"Alpha-2 Code": "HR",
+			"Alpha-3 Code": "HRV",
+			"Numeric Code": "191",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Cuba",
+			"Alpha-2 Code": "CU",
+			"Alpha-3 Code": "CUB",
+			"Numeric Code": "192",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Curaçao",
+			"Alpha-2 Code": "CW",
+			"Alpha-3 Code": "CUW",
+			"Numeric Code": "531",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Cyprus",
+			"Alpha-2 Code": "CY",
+			"Alpha-3 Code": "CYP",
+			"Numeric Code": "196",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Czechia",
+			"Alpha-2 Code": "CZ",
+			"Alpha-3 Code": "CZE",
+			"Numeric Code": "203",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Denmark",
+			"Alpha-2 Code": "DK",
+			"Alpha-3 Code": "DNK",
+			"Numeric Code": "208",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Djibouti",
+			"Alpha-2 Code": "DJ",
+			"Alpha-3 Code": "DJI",
+			"Numeric Code": "262",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Dominica",
+			"Alpha-2 Code": "DM",
+			"Alpha-3 Code": "DMA",
+			"Numeric Code": "212",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Dominican Republic",
+			"Alpha-2 Code": "DO",
+			"Alpha-3 Code": "DOM",
+			"Numeric Code": "214",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Ecuador",
+			"Alpha-2 Code": "EC",
+			"Alpha-3 Code": "ECU",
+			"Numeric Code": "218",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Egypt",
+			"Alpha-2 Code": "EG",
+			"Alpha-3 Code": "EGY",
+			"Numeric Code": "818",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "El Salvador",
+			"Alpha-2 Code": "SV",
+			"Alpha-3 Code": "SLV",
+			"Numeric Code": "222",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Equatorial Guinea",
+			"Alpha-2 Code": "GQ",
+			"Alpha-3 Code": "GNQ",
+			"Numeric Code": "226",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Eritrea",
+			"Alpha-2 Code": "ER",
+			"Alpha-3 Code": "ERI",
+			"Numeric Code": "232",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Estonia",
+			"Alpha-2 Code": "EE",
+			"Alpha-3 Code": "EST",
+			"Numeric Code": "233",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Eswatini",
+			"Alpha-2 Code": "SZ",
+			"Alpha-3 Code": "SWZ",
+			"Numeric Code": "748",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Ethiopia",
+			"Alpha-2 Code": "ET",
+			"Alpha-3 Code": "ETH",
+			"Numeric Code": "231",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Falkland Islands (Malvinas)",
+			"Alpha-2 Code": "FK",
+			"Alpha-3 Code": "FLK",
+			"Numeric Code": "238",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Faroe Islands",
+			"Alpha-2 Code": "FO",
+			"Alpha-3 Code": "FRO",
+			"Numeric Code": "234",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Fiji",
+			"Alpha-2 Code": "FJ",
+			"Alpha-3 Code": "FJI",
+			"Numeric Code": "242",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Finland",
+			"Alpha-2 Code": "FI",
+			"Alpha-3 Code": "FIN",
+			"Numeric Code": "246",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "France",
+			"Alpha-2 Code": "FR",
+			"Alpha-3 Code": "FRA",
+			"Numeric Code": "250",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "French Guiana",
+			"Alpha-2 Code": "GF",
+			"Alpha-3 Code": "GUF",
+			"Numeric Code": "254",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "French Polynesia",
+			"Alpha-2 Code": "PF",
+			"Alpha-3 Code": "PYF",
+			"Numeric Code": "258",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "French Southern Territories",
+			"Alpha-2 Code": "TF",
+			"Alpha-3 Code": "ATF",
+			"Numeric Code": "260",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Gabon",
+			"Alpha-2 Code": "GA",
+			"Alpha-3 Code": "GAB",
+			"Numeric Code": "266",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Gambia",
+			"Alpha-2 Code": "GM",
+			"Alpha-3 Code": "GMB",
+			"Numeric Code": "270",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Georgia",
+			"Alpha-2 Code": "GE",
+			"Alpha-3 Code": "GEO",
+			"Numeric Code": "268",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Germany",
+			"Alpha-2 Code": "DE",
+			"Alpha-3 Code": "DEU",
+			"Numeric Code": "276",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Ghana",
+			"Alpha-2 Code": "GH",
+			"Alpha-3 Code": "GHA",
+			"Numeric Code": "288",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Gibraltar",
+			"Alpha-2 Code": "GI",
+			"Alpha-3 Code": "GIB",
+			"Numeric Code": "292",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Greece",
+			"Alpha-2 Code": "GR",
+			"Alpha-3 Code": "GRC",
+			"Numeric Code": "300",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Greenland",
+			"Alpha-2 Code": "GL",
+			"Alpha-3 Code": "GRL",
+			"Numeric Code": "304",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Grenada",
+			"Alpha-2 Code": "GD",
+			"Alpha-3 Code": "GRD",
+			"Numeric Code": "308",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Guadeloupe",
+			"Alpha-2 Code": "GP",
+			"Alpha-3 Code": "GLP",
+			"Numeric Code": "312",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Guam",
+			"Alpha-2 Code": "GU",
+			"Alpha-3 Code": "GUM",
+			"Numeric Code": "316",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Guatemala",
+			"Alpha-2 Code": "GT",
+			"Alpha-3 Code": "GTM",
+			"Numeric Code": "320",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Guernsey",
+			"Alpha-2 Code": "GG",
+			"Alpha-3 Code": "GGY",
+			"Numeric Code": "831",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Guinea",
+			"Alpha-2 Code": "GN",
+			"Alpha-3 Code": "GIN",
+			"Numeric Code": "324",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Guinea-Bissau",
+			"Alpha-2 Code": "GW",
+			"Alpha-3 Code": "GNB",
+			"Numeric Code": "624",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Guyana",
+			"Alpha-2 Code": "GY",
+			"Alpha-3 Code": "GUY",
+			"Numeric Code": "328",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Haiti",
+			"Alpha-2 Code": "HT",
+			"Alpha-3 Code": "HTI",
+			"Numeric Code": "332",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Heard Island and McDonald Islands",
+			"Alpha-2 Code": "HM",
+			"Alpha-3 Code": "HMD",
+			"Numeric Code": "334",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Holy See",
+			"Alpha-2 Code": "VA",
+			"Alpha-3 Code": "VAT",
+			"Numeric Code": "336",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Honduras",
+			"Alpha-2 Code": "HN",
+			"Alpha-3 Code": "HND",
+			"Numeric Code": "340",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Hong Kong",
+			"Alpha-2 Code": "HK",
+			"Alpha-3 Code": "HKG",
+			"Numeric Code": "344",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Hungary",
+			"Alpha-2 Code": "HU",
+			"Alpha-3 Code": "HUN",
+			"Numeric Code": "348",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Iceland",
+			"Alpha-2 Code": "IS",
+			"Alpha-3 Code": "ISL",
+			"Numeric Code": "352",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "India",
+			"Alpha-2 Code": "IN",
+			"Alpha-3 Code": "IND",
+			"Numeric Code": "356",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Indonesia",
+			"Alpha-2 Code": "ID",
+			"Alpha-3 Code": "IDN",
+			"Numeric Code": "360",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Iran (Islamic Republic of)",
+			"Alpha-2 Code": "IR",
+			"Alpha-3 Code": "IRN",
+			"Numeric Code": "364",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Iraq",
+			"Alpha-2 Code": "IQ",
+			"Alpha-3 Code": "IRQ",
+			"Numeric Code": "368",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Ireland",
+			"Alpha-2 Code": "IE",
+			"Alpha-3 Code": "IRL",
+			"Numeric Code": "372",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Isle of Man",
+			"Alpha-2 Code": "IM",
+			"Alpha-3 Code": "IMN",
+			"Numeric Code": "833",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Israel",
+			"Alpha-2 Code": "IL",
+			"Alpha-3 Code": "ISR",
+			"Numeric Code": "376",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Italy",
+			"Alpha-2 Code": "IT",
+			"Alpha-3 Code": "ITA",
+			"Numeric Code": "380",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Jamaica",
+			"Alpha-2 Code": "JM",
+			"Alpha-3 Code": "JAM",
+			"Numeric Code": "388",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Japan",
+			"Alpha-2 Code": "JP",
+			"Alpha-3 Code": "JPN",
+			"Numeric Code": "392",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Jersey",
+			"Alpha-2 Code": "JE",
+			"Alpha-3 Code": "JEY",
+			"Numeric Code": "832",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Jordan",
+			"Alpha-2 Code": "JO",
+			"Alpha-3 Code": "JOR",
+			"Numeric Code": "400",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Kazakhstan",
+			"Alpha-2 Code": "KZ",
+			"Alpha-3 Code": "KAZ",
+			"Numeric Code": "398",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Kenya",
+			"Alpha-2 Code": "KE",
+			"Alpha-3 Code": "KEN",
+			"Numeric Code": "404",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Kiribati",
+			"Alpha-2 Code": "KI",
+			"Alpha-3 Code": "KIR",
+			"Numeric Code": "296",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Korea (Democratic People's Republic of)",
+			"Alpha-2 Code": "KP",
+			"Alpha-3 Code": "PRK",
+			"Numeric Code": "408",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Korea, Republic of",
+			"Alpha-2 Code": "KR",
+			"Alpha-3 Code": "KOR",
+			"Numeric Code": "410",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Kuwait",
+			"Alpha-2 Code": "KW",
+			"Alpha-3 Code": "KWT",
+			"Numeric Code": "414",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Kyrgyzstan",
+			"Alpha-2 Code": "KG",
+			"Alpha-3 Code": "KGZ",
+			"Numeric Code": "417",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Lao People's Democratic Republic",
+			"Alpha-2 Code": "LA",
+			"Alpha-3 Code": "LAO",
+			"Numeric Code": "418",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Latvia",
+			"Alpha-2 Code": "LV",
+			"Alpha-3 Code": "LVA",
+			"Numeric Code": "428",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Lebanon",
+			"Alpha-2 Code": "LB",
+			"Alpha-3 Code": "LBN",
+			"Numeric Code": "422",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Lesotho",
+			"Alpha-2 Code": "LS",
+			"Alpha-3 Code": "LSO",
+			"Numeric Code": "426",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Liberia",
+			"Alpha-2 Code": "LR",
+			"Alpha-3 Code": "LBR",
+			"Numeric Code": "430",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Libya",
+			"Alpha-2 Code": "LY",
+			"Alpha-3 Code": "LBY",
+			"Numeric Code": "434",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Liechtenstein",
+			"Alpha-2 Code": "LI",
+			"Alpha-3 Code": "LIE",
+			"Numeric Code": "438",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Lithuania",
+			"Alpha-2 Code": "LT",
+			"Alpha-3 Code": "LTU",
+			"Numeric Code": "440",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Luxembourg",
+			"Alpha-2 Code": "LU",
+			"Alpha-3 Code": "LUX",
+			"Numeric Code": "442",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Macao",
+			"Alpha-2 Code": "MO",
+			"Alpha-3 Code": "MAC",
+			"Numeric Code": "446",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Madagascar",
+			"Alpha-2 Code": "MG",
+			"Alpha-3 Code": "MDG",
+			"Numeric Code": "450",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Malawi",
+			"Alpha-2 Code": "MW",
+			"Alpha-3 Code": "MWI",
+			"Numeric Code": "454",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Malaysia",
+			"Alpha-2 Code": "MY",
+			"Alpha-3 Code": "MYS",
+			"Numeric Code": "458",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Maldives",
+			"Alpha-2 Code": "MV",
+			"Alpha-3 Code": "MDV",
+			"Numeric Code": "462",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Mali",
+			"Alpha-2 Code": "ML",
+			"Alpha-3 Code": "MLI",
+			"Numeric Code": "466",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Malta",
+			"Alpha-2 Code": "MT",
+			"Alpha-3 Code": "MLT",
+			"Numeric Code": "470",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Marshall Islands",
+			"Alpha-2 Code": "MH",
+			"Alpha-3 Code": "MHL",
+			"Numeric Code": "584",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Martinique",
+			"Alpha-2 Code": "MQ",
+			"Alpha-3 Code": "MTQ",
+			"Numeric Code": "474",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Mauritania",
+			"Alpha-2 Code": "MR",
+			"Alpha-3 Code": "MRT",
+			"Numeric Code": "478",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Mauritius",
+			"Alpha-2 Code": "MU",
+			"Alpha-3 Code": "MUS",
+			"Numeric Code": "480",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Mayotte",
+			"Alpha-2 Code": "YT",
+			"Alpha-3 Code": "MYT",
+			"Numeric Code": "175",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Mexico",
+			"Alpha-2 Code": "MX",
+			"Alpha-3 Code": "MEX",
+			"Numeric Code": "484",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Micronesia (Federated States of)",
+			"Alpha-2 Code": "FM",
+			"Alpha-3 Code": "FSM",
+			"Numeric Code": "583",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Moldova, Republic of",
+			"Alpha-2 Code": "MD",
+			"Alpha-3 Code": "MDA",
+			"Numeric Code": "498",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Monaco",
+			"Alpha-2 Code": "MC",
+			"Alpha-3 Code": "MCO",
+			"Numeric Code": "492",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Mongolia",
+			"Alpha-2 Code": "MN",
+			"Alpha-3 Code": "MNG",
+			"Numeric Code": "496",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Montenegro",
+			"Alpha-2 Code": "ME",
+			"Alpha-3 Code": "MNE",
+			"Numeric Code": "499",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Montserrat",
+			"Alpha-2 Code": "MS",
+			"Alpha-3 Code": "MSR",
+			"Numeric Code": "500",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Morocco",
+			"Alpha-2 Code": "MA",
+			"Alpha-3 Code": "MAR",
+			"Numeric Code": "504",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Mozambique",
+			"Alpha-2 Code": "MZ",
+			"Alpha-3 Code": "MOZ",
+			"Numeric Code": "508",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Myanmar",
+			"Alpha-2 Code": "MM",
+			"Alpha-3 Code": "MMR",
+			"Numeric Code": "104",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Namibia",
+			"Alpha-2 Code": "NA",
+			"Alpha-3 Code": "NAM",
+			"Numeric Code": "516",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Nauru",
+			"Alpha-2 Code": "NR",
+			"Alpha-3 Code": "NRU",
+			"Numeric Code": "520",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Nepal",
+			"Alpha-2 Code": "NP",
+			"Alpha-3 Code": "NPL",
+			"Numeric Code": "524",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Netherlands",
+			"Alpha-2 Code": "NL",
+			"Alpha-3 Code": "NLD",
+			"Numeric Code": "528",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "New Caledonia",
+			"Alpha-2 Code": "NC",
+			"Alpha-3 Code": "NCL",
+			"Numeric Code": "540",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "New Zealand",
+			"Alpha-2 Code": "NZ",
+			"Alpha-3 Code": "NZL",
+			"Numeric Code": "554",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Nicaragua",
+			"Alpha-2 Code": "NI",
+			"Alpha-3 Code": "NIC",
+			"Numeric Code": "558",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Niger",
+			"Alpha-2 Code": "NE",
+			"Alpha-3 Code": "NER",
+			"Numeric Code": "562",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Nigeria",
+			"Alpha-2 Code": "NG",
+			"Alpha-3 Code": "NGA",
+			"Numeric Code": "566",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Niue",
+			"Alpha-2 Code": "NU",
+			"Alpha-3 Code": "NIU",
+			"Numeric Code": "570",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Norfolk Island",
+			"Alpha-2 Code": "NF",
+			"Alpha-3 Code": "NFK",
+			"Numeric Code": "574",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "North Macedonia",
+			"Alpha-2 Code": "MK",
+			"Alpha-3 Code": "MKD",
+			"Numeric Code": "807",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Northern Mariana Islands",
+			"Alpha-2 Code": "MP",
+			"Alpha-3 Code": "MNP",
+			"Numeric Code": "580",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Norway",
+			"Alpha-2 Code": "NO",
+			"Alpha-3 Code": "NOR",
+			"Numeric Code": "578",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Oman",
+			"Alpha-2 Code": "OM",
+			"Alpha-3 Code": "OMN",
+			"Numeric Code": "512",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Pakistan",
+			"Alpha-2 Code": "PK",
+			"Alpha-3 Code": "PAK",
+			"Numeric Code": "586",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Palau",
+			"Alpha-2 Code": "PW",
+			"Alpha-3 Code": "PLW",
+			"Numeric Code": "585",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Palestine, State of",
+			"Alpha-2 Code": "PS",
+			"Alpha-3 Code": "PSE",
+			"Numeric Code": "275",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Panama",
+			"Alpha-2 Code": "PA",
+			"Alpha-3 Code": "PAN",
+			"Numeric Code": "591",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Papua New Guinea",
+			"Alpha-2 Code": "PG",
+			"Alpha-3 Code": "PNG",
+			"Numeric Code": "598",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Paraguay",
+			"Alpha-2 Code": "PY",
+			"Alpha-3 Code": "PRY",
+			"Numeric Code": "600",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Peru",
+			"Alpha-2 Code": "PE",
+			"Alpha-3 Code": "PER",
+			"Numeric Code": "604",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Philippines",
+			"Alpha-2 Code": "PH",
+			"Alpha-3 Code": "PHL",
+			"Numeric Code": "608",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Pitcairn",
+			"Alpha-2 Code": "PN",
+			"Alpha-3 Code": "PCN",
+			"Numeric Code": "612",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Poland",
+			"Alpha-2 Code": "PL",
+			"Alpha-3 Code": "POL",
+			"Numeric Code": "616",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Portugal",
+			"Alpha-2 Code": "PT",
+			"Alpha-3 Code": "PRT",
+			"Numeric Code": "620",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Puerto Rico",
+			"Alpha-2 Code": "PR",
+			"Alpha-3 Code": "PRI",
+			"Numeric Code": "630",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Qatar",
+			"Alpha-2 Code": "QA",
+			"Alpha-3 Code": "QAT",
+			"Numeric Code": "634",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Réunion",
+			"Alpha-2 Code": "RE",
+			"Alpha-3 Code": "REU",
+			"Numeric Code": "638",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Romania",
+			"Alpha-2 Code": "RO",
+			"Alpha-3 Code": "ROU",
+			"Numeric Code": "642",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Russian Federation",
+			"Alpha-2 Code": "RU",
+			"Alpha-3 Code": "RUS",
+			"Numeric Code": "643",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Rwanda",
+			"Alpha-2 Code": "RW",
+			"Alpha-3 Code": "RWA",
+			"Numeric Code": "646",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Saint Barthélemy",
+			"Alpha-2 Code": "BL",
+			"Alpha-3 Code": "BLM",
+			"Numeric Code": "652",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Saint Helena, Ascension and Tristan da Cunha",
+			"Alpha-2 Code": "SH",
+			"Alpha-3 Code": "SHN",
+			"Numeric Code": "654",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Saint Kitts and Nevis",
+			"Alpha-2 Code": "KN",
+			"Alpha-3 Code": "KNA",
+			"Numeric Code": "659",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Saint Lucia",
+			"Alpha-2 Code": "LC",
+			"Alpha-3 Code": "LCA",
+			"Numeric Code": "662",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Saint Martin (French part)",
+			"Alpha-2 Code": "MF",
+			"Alpha-3 Code": "MAF",
+			"Numeric Code": "663",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Saint Pierre and Miquelon",
+			"Alpha-2 Code": "PM",
+			"Alpha-3 Code": "SPM",
+			"Numeric Code": "666",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Saint Vincent and the Grenadines",
+			"Alpha-2 Code": "VC",
+			"Alpha-3 Code": "VCT",
+			"Numeric Code": "670",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Samoa",
+			"Alpha-2 Code": "WS",
+			"Alpha-3 Code": "WSM",
+			"Numeric Code": "882",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "San Marino",
+			"Alpha-2 Code": "SM",
+			"Alpha-3 Code": "SMR",
+			"Numeric Code": "674",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Sao Tome and Principe",
+			"Alpha-2 Code": "ST",
+			"Alpha-3 Code": "STP",
+			"Numeric Code": "678",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Saudi Arabia",
+			"Alpha-2 Code": "SA",
+			"Alpha-3 Code": "SAU",
+			"Numeric Code": "682",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Senegal",
+			"Alpha-2 Code": "SN",
+			"Alpha-3 Code": "SEN",
+			"Numeric Code": "686",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Serbia",
+			"Alpha-2 Code": "RS",
+			"Alpha-3 Code": "SRB",
+			"Numeric Code": "688",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Seychelles",
+			"Alpha-2 Code": "SC",
+			"Alpha-3 Code": "SYC",
+			"Numeric Code": "690",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Sierra Leone",
+			"Alpha-2 Code": "SL",
+			"Alpha-3 Code": "SLE",
+			"Numeric Code": "694",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Singapore",
+			"Alpha-2 Code": "SG",
+			"Alpha-3 Code": "SGP",
+			"Numeric Code": "702",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Sint Maarten (Dutch part)",
+			"Alpha-2 Code": "SX",
+			"Alpha-3 Code": "SXM",
+			"Numeric Code": "534",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Slovakia",
+			"Alpha-2 Code": "SK",
+			"Alpha-3 Code": "SVK",
+			"Numeric Code": "703",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Slovenia",
+			"Alpha-2 Code": "SI",
+			"Alpha-3 Code": "SVN",
+			"Numeric Code": "705",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Solomon Islands",
+			"Alpha-2 Code": "SB",
+			"Alpha-3 Code": "SLB",
+			"Numeric Code": "090",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Somalia",
+			"Alpha-2 Code": "SO",
+			"Alpha-3 Code": "SOM",
+			"Numeric Code": "706",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "South Africa",
+			"Alpha-2 Code": "ZA",
+			"Alpha-3 Code": "ZAF",
+			"Numeric Code": "710",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "South Georgia and the South Sandwich Islands",
+			"Alpha-2 Code": "GS",
+			"Alpha-3 Code": "SGS",
+			"Numeric Code": "239",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "South Sudan",
+			"Alpha-2 Code": "SS",
+			"Alpha-3 Code": "SSD",
+			"Numeric Code": "728",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Spain",
+			"Alpha-2 Code": "ES",
+			"Alpha-3 Code": "ESP",
+			"Numeric Code": "724",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Sri Lanka",
+			"Alpha-2 Code": "LK",
+			"Alpha-3 Code": "LKA",
+			"Numeric Code": "144",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Sudan",
+			"Alpha-2 Code": "SD",
+			"Alpha-3 Code": "SDN",
+			"Numeric Code": "729",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Suriname",
+			"Alpha-2 Code": "SR",
+			"Alpha-3 Code": "SUR",
+			"Numeric Code": "740",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Svalbard and Jan Mayen",
+			"Alpha-2 Code": "SJ",
+			"Alpha-3 Code": "SJM",
+			"Numeric Code": "744",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Sweden",
+			"Alpha-2 Code": "SE",
+			"Alpha-3 Code": "SWE",
+			"Numeric Code": "752",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Switzerland",
+			"Alpha-2 Code": "CH",
+			"Alpha-3 Code": "CHE",
+			"Numeric Code": "756",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Syrian Arab Republic",
+			"Alpha-2 Code": "SY",
+			"Alpha-3 Code": "SYR",
+			"Numeric Code": "760",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Taiwan, Province of China",
+			"Alpha-2 Code": "TW",
+			"Alpha-3 Code": "TWN",
+			"Numeric Code": "158",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Tajikistan",
+			"Alpha-2 Code": "TJ",
+			"Alpha-3 Code": "TJK",
+			"Numeric Code": "762",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Tanzania, United Republic of",
+			"Alpha-2 Code": "TZ",
+			"Alpha-3 Code": "TZA",
+			"Numeric Code": "834",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Thailand",
+			"Alpha-2 Code": "TH",
+			"Alpha-3 Code": "THA",
+			"Numeric Code": "764",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Timor-Leste",
+			"Alpha-2 Code": "TL",
+			"Alpha-3 Code": "TLS",
+			"Numeric Code": "626",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Togo",
+			"Alpha-2 Code": "TG",
+			"Alpha-3 Code": "TGO",
+			"Numeric Code": "768",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Tokelau",
+			"Alpha-2 Code": "TK",
+			"Alpha-3 Code": "TKL",
+			"Numeric Code": "772",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Tonga",
+			"Alpha-2 Code": "TO",
+			"Alpha-3 Code": "TON",
+			"Numeric Code": "776",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Trinidad and Tobago",
+			"Alpha-2 Code": "TT",
+			"Alpha-3 Code": "TTO",
+			"Numeric Code": "780",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Tunisia",
+			"Alpha-2 Code": "TN",
+			"Alpha-3 Code": "TUN",
+			"Numeric Code": "788",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Turkey",
+			"Alpha-2 Code": "TR",
+			"Alpha-3 Code": "TUR",
+			"Numeric Code": "792",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Turkmenistan",
+			"Alpha-2 Code": "TM",
+			"Alpha-3 Code": "TKM",
+			"Numeric Code": "795",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Turks and Caicos Islands",
+			"Alpha-2 Code": "TC",
+			"Alpha-3 Code": "TCA",
+			"Numeric Code": "796",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Tuvalu",
+			"Alpha-2 Code": "TV",
+			"Alpha-3 Code": "TUV",
+			"Numeric Code": "798",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Uganda",
+			"Alpha-2 Code": "UG",
+			"Alpha-3 Code": "UGA",
+			"Numeric Code": "800",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Ukraine",
+			"Alpha-2 Code": "UA",
+			"Alpha-3 Code": "UKR",
+			"Numeric Code": "804",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "United Arab Emirates",
+			"Alpha-2 Code": "AE",
+			"Alpha-3 Code": "ARE",
+			"Numeric Code": "784",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "United Kingdom of Great Britain and Northern Ireland",
+			"Alpha-2 Code": "GB",
+			"Alpha-3 Code": "GBR",
+			"Numeric Code": "826",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "United States of America",
+			"Alpha-2 Code": "US",
+			"Alpha-3 Code": "USA",
+			"Numeric Code": "840",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "United States Minor Outlying Islands",
+			"Alpha-2 Code": "UM",
+			"Alpha-3 Code": "UMI",
+			"Numeric Code": "581",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Uruguay",
+			"Alpha-2 Code": "UY",
+			"Alpha-3 Code": "URY",
+			"Numeric Code": "858",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Uzbekistan",
+			"Alpha-2 Code": "UZ",
+			"Alpha-3 Code": "UZB",
+			"Numeric Code": "860",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Vanuatu",
+			"Alpha-2 Code": "VU",
+			"Alpha-3 Code": "VUT",
+			"Numeric Code": "548",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Venezuela (Bolivarian Republic of)",
+			"Alpha-2 Code": "VE",
+			"Alpha-3 Code": "VEN",
+			"Numeric Code": "862",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Viet Nam",
+			"Alpha-2 Code": "VN",
+			"Alpha-3 Code": "VNM",
+			"Numeric Code": "704",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Virgin Islands (British)",
+			"Alpha-2 Code": "VG",
+			"Alpha-3 Code": "VGB",
+			"Numeric Code": "092",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Virgin Islands (U.S.)",
+			"Alpha-2 Code": "VI",
+			"Alpha-3 Code": "VIR",
+			"Numeric Code": "850",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Wallis and Futuna",
+			"Alpha-2 Code": "WF",
+			"Alpha-3 Code": "WLF",
+			"Numeric Code": "876",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Western Sahara",
+			"Alpha-2 Code": "EH",
+			"Alpha-3 Code": "ESH",
+			"Numeric Code": "732",
+			"Independent": "No"
+		},
+		{
+			"English Short Name": "Yemen",
+			"Alpha-2 Code": "YE",
+			"Alpha-3 Code": "YEM",
+			"Numeric Code": "887",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Zambia",
+			"Alpha-2 Code": "ZM",
+			"Alpha-3 Code": "ZMB",
+			"Numeric Code": "894",
+			"Independent": "Yes"
+		},
+		{
+			"English Short Name": "Zimbabwe",
+			"Alpha-2 Code": "ZW",
+			"Alpha-3 Code": "ZWE",
+			"Numeric Code": "716",
+			"Independent": "Yes"
+		}
+	]
+}
