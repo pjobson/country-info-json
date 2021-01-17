@@ -98,7 +98,7 @@ EPA Air Quality System (AQS) data for CSAs (Consolidated Statistical Areas).
 
 https://aqs.epa.gov/aqsweb/documents/codetables/csas.html
 
-## us.epa.aqs.uars.json
+## epa/us.epa.aqs.uars.json
 
 EPA Air Quality System (AQS) data for UARs (Urban Areas Represented).
 
