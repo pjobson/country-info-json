@@ -2,37 +2,37 @@
 
 This repo contains various data sets for countries, languages, airport codes, and a variety of other things.
 
-## ISO.3166-1.json
+## ISO/ISO.3166-1.json
 
 ISO 3166-1 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for the names of countries, dependent territories, and special areas of geographical interest. The official name of the standard is Codes for the representation of names of countries and their subdivisions.
 
 https://en.wikipedia.org/wiki/ISO_3166-1
 
-## ISO.3166-2.json
+## ISO/ISO.3166-2.json
 
 ISO 3166-2 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for identifying the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1. The official name of the standard is Codes for the representation of names of countries and their subdivisions.
 
 https://en.wikipedia.org/wiki/ISO_3166-2
 
-## ISO.3166-3.json
+## ISO/ISO.3166-3.json
 
 ISO 3166-3 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974. The official name of the standard is Codes for the representation of names of countries and their subdivisions.
 
 https://en.wikipedia.org/wiki/ISO_3166-3
 
-## ISO.639.json
+## ISO/ISO.639.json
 
 ISO 639 is a set of standards by the International Organization for Standardization that is concerned with representation of names for languages and language groups.
 
 https://iso639-3.sil.org/code_tables/639/data
 
-## RFC4646.json
+## RFC/RFC4646.json
 
 RFC 4646 defined the concept of an sextended language subtag" (sometimes referred to as extlang), although no such subtags were registered at that time.
 
 https://tools.ietf.org/html/rfc4646
 
-## RFC5646.json
+## RFC/RFC5646.json
 
 The current version of the specification, RFC 5646, was published in September 2009. The main purpose of this revision was to incorporate three-letter codes from ISO 639-3 and 639-5 into the Language Subtag Registry, in order to increase the interoperability between ISO 639 and BCP 47.
 
@@ -68,37 +68,37 @@ Up to and including the seventh edition of STANAG 1059, these were two-letter co
 
 https://en.wikipedia.org/wiki/List_of_NATO_country_codes
 
-## epa/us.epa.aqs.states.and.counties.json
+## EPA/us.epa.aqs.states.and.counties.json
 
 EPA Air Quality System (AQS) data for state, county, and epa region.
 
 https://aqs.epa.gov/aqsweb/documents/codetables/states_and_counties.html
 
-## epa/us.epa.aqs.agencies.all.json
+## EPA/us.epa.aqs.agencies.all.json
 
 EPA Air Quality System (AQS) data for agency listings.
 
 https://aqs.epa.gov/aqsweb/documents/codetables/agencies_all.html
 
-## epa/us.epa.aqs.cities.json
+## EPA/us.epa.aqs.cities.json
 
 EPA Air Quality System (AQS) data for cities.
 
 https://aqs.epa.gov/aqsweb/documents/codetables/cities.html
 
-## epa/us.epa.aqs.cbsa.json
+## EPA/us.epa.aqs.cbsa.json
 
 EPA Air Quality System (AQS) data for CBSAs (Core Based Statistical Areas).
 
 https://aqs.epa.gov/aqsweb/documents/codetables/cbsas.html
 
-## epa/us.epa.aqs.csas.json
+## EPA/us.epa.aqs.csas.json
 
 EPA Air Quality System (AQS) data for CSAs (Consolidated Statistical Areas).
 
 https://aqs.epa.gov/aqsweb/documents/codetables/csas.html
 
-## epa/us.epa.aqs.uars.json
+## EPA/us.epa.aqs.uars.json
 
 EPA Air Quality System (AQS) data for UARs (Urban Areas Represented).
 
