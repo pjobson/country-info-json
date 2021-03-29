@@ -2,6 +2,20 @@
 
 This repo contains various data sets for countries, languages, airport codes, and a variety of other things.
 
+## EPA/fips-codes.json
+
+FIPS codes are numbers which uniquely identify geographic areas.  The number of
+digits in FIPS codes vary depending on the level of geography.  State-level FIPS
+codes have two digits, county-level FIPS codes have five digits of which the
+first two are the FIPS code of the state to which the county belongs.  When
+using the list below to look up county FIPS codes, it is advisable to first look
+up the FIPS code for the state to which the county belongs.  This will help you
+identify the right section of the list while scrolling down, which can be
+important since there are over 3000 counties and county-equivalents (e.g.
+independent cities, parishes, boroughs) in the United States.
+
+https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+
 ## ISO/ISO.3166-1.json
 
 ISO 3166-1 is part of the ISO 3166 standard published by the International Organization for Standardization (ISO), and defines codes for the names of countries, dependent territories, and special areas of geographical interest. The official name of the standard is Codes for the representation of names of countries and their subdivisions.
