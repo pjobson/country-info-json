@@ -2,7 +2,7 @@
 
 This repo contains various data sets for countries, languages, airport codes, and a variety of other things.
 
-## EPA/fips-codes.json
+## FCC/fips-codes.json
 
 FIPS codes are numbers which uniquely identify geographic areas.  The number of
 digits in FIPS codes vary depending on the level of geography.  State-level FIPS
