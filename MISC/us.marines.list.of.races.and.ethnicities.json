@@ -1,0 +1,138 @@
+{
+	"metadata": {
+		"type": "Database",
+		"name": "USMC List of Races and Ethnicities",
+		"version": "FbMNtC4yNA9AVAYX1KN1gg;;",
+		"date": "2021-05-17",
+		"source": "https://www.mcrc.marines.mil/Portals/95/Race%20and%20Ethinicity%20Codes.pdf?ver=FbMNtC4yNA9AVAYX1KN1gg%3D%3D",
+		"description": "This appears to be some kind of list of Ethnicties and Races codes published by the marines."
+	},
+	"races": [
+		{
+			"Race_Group": "American Indian/Alaska Native",
+			"Race_Code": "A"
+		},
+		{
+			"Race_Group": "Asian",
+			"Race_Code": "B"
+		},
+		{
+			"Race_Group": "Black or African American",
+			"Race_Code": "C"
+		},
+		{
+			"Race_Group": "Native Hawaiian or other Pacific Islander",
+			"Race_Code": "D"
+		},
+		{
+			"Race_Group": "White",
+			"Race_Code": "E"
+		},
+		{
+			"Race_Group": "Decline to Respond",
+			"Race_Code": "F"
+		}
+	],
+	"ethnicities": [
+		{
+			"Ethnicity": "African",
+			"Ethnicity_Code": "A"
+		},
+		{
+			"Ethnicity": "Caribbean",
+			"Ethnicity_Code": "B"
+		},
+		{
+			"Ethnicity": "Indian",
+			"Ethnicity_Code": "D"
+		},
+		{
+			"Ethnicity": "Melanesian",
+			"Ethnicity_Code": "E"
+		},
+		{
+			"Ethnicity": "Australasian/Aboriginal",
+			"Ethnicity_Code": "F"
+		},
+		{
+			"Ethnicity": "Chinese",
+			"Ethnicity_Code": "G"
+		},
+		{
+			"Ethnicity": "Guamanian",
+			"Ethnicity_Code": "H"
+		},
+		{
+			"Ethnicity": "Japanese",
+			"Ethnicity_Code": "J"
+		},
+		{
+			"Ethnicity": "Korean",
+			"Ethnicity_Code": "K"
+		},
+		{
+			"Ethnicity": "Polynesian",
+			"Ethnicity_Code": "L"
+		},
+		{
+			"Ethnicity": "European/Anglo Saxon",
+			"Ethnicity_Code": "P"
+		},
+		{
+			"Ethnicity": "Other Pacific Islander",
+			"Ethnicity_Code": "Q"
+		},
+		{
+			"Ethnicity": "Latin American",
+			"Ethnicity_Code": "S"
+		},
+		{
+			"Ethnicity": "Arabic",
+			"Ethnicity_Code": "T"
+		},
+		{
+			"Ethnicity": "Vietnamese",
+			"Ethnicity_Code": "V"
+		},
+		{
+			"Ethnicity": "Micronesian",
+			"Ethnicity_Code": "W"
+		},
+		{
+			"Ethnicity": "Declined to Respond",
+			"Ethnicity_Code": "Z"
+		},
+		{
+			"Ethnicity": "Other Hispanic",
+			"Ethnicity_Code": "1"
+		},
+		{
+			"Ethnicity": "US or Canadian Indian",
+			"Ethnicity_Code": "2"
+		},
+		{
+			"Ethnicity": "Other Asian",
+			"Ethnicity_Code": "3"
+		},
+		{
+			"Ethnicity": "Puerto Rican",
+			"Ethnicity_Code": "4"
+		},
+		{
+			"Ethnicity": "Filipino",
+			"Ethnicity_Code": "5"
+		},
+		{
+			"Ethnicity": "Mexican",
+			"Ethnicity_Code": "6"
+		},
+		{
+			"Ethnicity": "Alaskan Native",
+			"Ethnicity_Code": "7"
+		},
+		{
+			"Ethnicity": "Cuban",
+			"Ethnicity_Code": "9"
+		}
+	]
+}

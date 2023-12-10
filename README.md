@@ -118,3 +118,15 @@ EPA Air Quality System (AQS) data for UARs (Urban Areas Represented).
 
 https://aqs.epa.gov/aqsweb/documents/codetables/uars.html
 
+## MISC/us.marines.list.of.races.and.ethnicities.json
+
+USMC List of Races and Ethnicities
+
+https://www.mcrc.marines.mil/Portals/95/Race%20and%20Ethinicity%20Codes.pdf?ver=FbMNtC4yNA9AVAYX1KN1gg%3D%3D
+
+## MISC/us.marines.list.of.religious.preferences.json
+
+USMC List of Religious Preferences
+
+https://www.mcrc.marines.mil/Portals/95/Religious%20Preference%20Codes.pdf
+
